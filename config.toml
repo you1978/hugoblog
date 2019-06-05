@@ -1,6 +1,6 @@
 title = "最高の未来をつくる"
-baseURL = "anyplace2030.work"
-languageCode = "en-us"
+baseURL = "https://anyplace2030.work/"
+languageCode = "ja-JP"
 theme = "gohugo-theme-ananke"
  # themesDir = "../.."
 
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
