@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "最高の未来をつくる"
+baseURL = "anyplace2030.work"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
  # themesDir = "../.."
