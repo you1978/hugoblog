@@ -1,33 +1,25 @@
-title = "最高の未来をつくる"
-baseURL = "https://anyplace2030.work/"
-languageCode = "ja-JP"
-theme = "gohugo-theme-ananke"
- # themesDir = "../.."
+baseurl = "https://anyplace2030.work/"
+title = "黄金の未来の探し方"
+theme = "hugo_theme_robust"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+googleAnalytics = "UA-11961133-24" # Optional
+disqusShortname = "XYW"
 
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+description = "This is site description"
+dateformat = "Jan 2, 2006" # Optional
+# Fonts settings.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+thumbnail = "images/author.jpg"
+name = "Yohei Tanaka"
+description = "<p>マレーシア在住IT投資家</p>"
+#facebook = "https://www.facebook.com/daisuke.tsuji.735"
+#twitter = "https://twitter.com/dim0627"
+#github = "https://github.com/dim0627"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
