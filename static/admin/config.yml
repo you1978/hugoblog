@@ -2,9 +2,9 @@ backend:
   name: github
   repo: you1978/hugoblog # GitHubのリポジトリ　「https://github.com/」の後ろの部分
 
-media_folder: "static"
+media_folder: "static/images"
 
-public_folder: "/public"
+public_folder: "images/"
 
 collections:
   - label: "Blog" # 管理画面のサイドバーで使う
