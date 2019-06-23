@@ -16,5 +16,6 @@ collections:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "公開日", name: "date", widget: "datetime"}
       - {label: "サムネイル画像", name: "thumbnail", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "レーティング", name: "rating", widget: "number"}
       - {label: "本文", name: "body", widget: "markdown"}
