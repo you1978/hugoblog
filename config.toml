@@ -16,7 +16,7 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 [params.author]
 thumbnail = "images/author.jpg"
 name = "Yohei Tanaka"
-description = "<p>マレーシア在住IT投資家<br>8歳の女の子の父親<br>ベトナム出張中！</p>"
+description = "<p>マレーシア在住ベトナムで仕事中<br>世界の股にかけるプログラマー上がりのブリッジSE<br>8歳の女の子の父親</p>"
 #facebook = "https://www.facebook.com/daisuke.tsuji.735"
 twitter = "https://twitter.com/tanakayohei3"
 #github = "https://github.com/dim0627"
