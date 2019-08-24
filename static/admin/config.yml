@@ -6,6 +6,8 @@ media_folder: "static/images"
 
 public_folder: "images/"
 
+publish_mode: editorial_workflow
+
 collections:
   - label: "Blog" # 管理画面のサイドバーで使う
     name: "post" # 管理画面のパスで使う　例：/admin/collections/blog
