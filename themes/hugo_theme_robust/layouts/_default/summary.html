@@ -18,13 +18,16 @@
     {{ partial "share.html" . }}
   </header>
 
-  {{ if .Params.toc }}
-  <div class="toc">
-    {{ .TableOfContents }}
+  <div class="article-body">
+      {{ $first_h2 := index (findRE "<h2 id.*?>" .Content 1) 0 }}
+      {{ .Scratch.Set "first_h2" $first_h2}}
+      {{ if and (.Params.toc) (.Scratch.Get "first_h2") }}
+        {{ $toc_and_h2 := printf "<div class='toc'>%s</div>%s" (.TableOfContents) (.Scratch.Get "first_h2")}}
+        {{ replace .Content (.Scratch.Get "first_h2") $toc_and_h2 | safeHTML }}
+      {{ else }}
+        {{ .Content }}
+      {{ end }}
   </div>
-  {{ end }}
-
-  <div class="article-body">{{ .Content }}</div>
 
   <footer class="article-footer">
 
