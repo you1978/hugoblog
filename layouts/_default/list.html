@@ -12,9 +12,9 @@
 
     <div class="articles">
       <div class="mrow">
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-        {{ range (.Paginate .Data.Pages).Pages }}
-        <div class="mcol c6">{{ .Render "li" }}</div>
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+        {{ range $paginator.Pages }}
+          <div class="mcol c6">{{ .Render "li" }}</div>
         {{ end }}
       </div>
     </div>
