@@ -20,6 +20,5 @@ collections:
       - {label: "サムネイル画像", name: "thumbnail", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "レーティング", name: "rating", widget: "number"}
-      - {label: "ドラフト", name: "draft", widget: "boolean", default: true} 
       - {label: "目次", name: "toc", widget: "boolean", default: true} 
       - {label: "本文", name: "body", widget: "markdown"}
