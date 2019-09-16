@@ -6,7 +6,7 @@ googleAnalytics = "UA-11961133-25" # Optional
 disqusShortname = "XYW"
 
 [params]
-description = "世界の最新サイトを紹介するサイト"
+description = "マイクロビジネスのアイディアを紹介するサイト"
 dateformat = "Jan 2, 2006" # Optional
 # Fonts settings.
 googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
