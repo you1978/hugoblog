@@ -6,6 +6,8 @@ thumbnail: "images/adult-asia-boys.jpg"
 draft: false
 ---
 
+こんにちは、マイクロビジネス研究家の田中です。
+
 # 与えるということ
 
 ```
