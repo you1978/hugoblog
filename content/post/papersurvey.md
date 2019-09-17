@@ -1,7 +1,7 @@
 ---
 title: "Papersurvey"
 date: 2019-09-16T14:27:40Z
-draft: false
+draft: true
 thumbnail: /images/papersurvey.io.png
 toc: true
 ---
