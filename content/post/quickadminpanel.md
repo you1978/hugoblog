@@ -12,6 +12,8 @@ toc: true
 サイトの管理者画面を簡単に構築できるサイトを紹介します。
 https://2019.quickadminpanel.com/
 
+Laravel5.6、Laravel5.7、Laravel5.8、Laravel5.9、Laravel6.0に対応しています。
+
 ## アプリの概要
 
 サイト開発者だけではなくフリーランサーにも提供を想定しています。  
