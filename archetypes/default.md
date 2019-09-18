@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+thumbnail: /images/xxxjpg
 draft: true
 toc: true
 ---
