@@ -8,6 +8,8 @@ toc: true
 
 **2019年9月14日　作成**
 
+こんにちは、マイクロビジネス研究家の田中です。　　
+
 Apisentrisは、任意のクラウドデータベース（MySQL,PostgreSQL,MongoDB,Google BigQuery)をAPIで簡単に操作できるようにするサイトです。
 https://apisentris.com/
 
