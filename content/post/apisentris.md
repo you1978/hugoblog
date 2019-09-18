@@ -1,6 +1,6 @@
 ---
 title: "Apisentris"
-date: 2019-09-19T07:00:00+0900
+date: 2019-09-18T07:00:00+0900
 thumbnail: /images/database.png
 draft: false
 toc: true
