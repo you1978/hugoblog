@@ -1,4 +1,5 @@
-baseurl = "/"
+
+baseurl = "https://anyplace2030.work/"
 title = "セミリタイアを目指すブログ"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
