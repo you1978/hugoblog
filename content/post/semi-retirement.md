@@ -90,7 +90,7 @@ rating: -1
 無理してやりたくないことを続ける必要はありません。
 
 是非、読んでみてください。  
-Kindle版は無かったので、紙の本で読んでください。
+Kindle版は無かったので、是非、紙の本で読んでください。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=beauplace-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4899760647&linkId=418f612b3486c1fd9be45b38c44213f8&bc1=000000&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe>
