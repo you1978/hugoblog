@@ -15,6 +15,8 @@ tags:
 本日は、月に1万ドル稼いでるWordPress翻訳プラグインTranslatePressを紹介します。
 https://translatepress.com/
 
+<!--more-->
+
 ## アプリの概要
 
 TraslatePressは、WordPress翻訳プラグインです。      

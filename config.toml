@@ -1,29 +1,50 @@
-baseurl = "https://anyplace2030.work/"
-title = "黄金の未来の探し方"
-theme = "hugo_theme_robust"
+baseurl = "/"
+title = "セミリタイアを目指すブログ"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-11961133-2" # Enable Google Analytics by entering your tracking id
 
-googleAnalytics = "UA-11961133-25" # Optional
-disqusShortname = "XYW"
+[Author]
+  name = "Yohei Tanaka"  
+  bio = "マイクロビジネス研究家。マレーシア在住ベトナムハノイに出張多数。世界の股にかけるプログラマー上がりのブリッジSE。8歳の女の子の父親"
+  avatar = "images/author.jpg"
 
-[params]
-description = "セミリタイアを目指すブログ"
-dateformat = "Jan 2, 2006" # Optional
-# Fonts settings.
-googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
-fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
-logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+[Params]
+  subtitle = "黄金の未来の探し方" # Subtitle of your site
+  description = "セミリタイアを目指すための過程を書いたブログ" # Description of your site
+  opengraph = true
+  twitter_cards = true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true
+  post_navigation = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  toc = true
+  customCSS = ["/css/custom.css"]
 
-[params.author]
-thumbnail = "images/author.jpg"
-name = "Yohei Tanaka"
-description = '<p>マイクロビジネス研究家<br>マレーシア在住ベトナムハノイに出張多数<br>世界の股にかけるプログラマー上がりのブリッジSE<br>8歳の女の子の父親</p><a href="/pages/about/">本サイトの紹介と私のプロフィールはこちら</a>'
-#facebook = "https://www.facebook.com/daisuke.tsuji.735"
-twitter = "https://twitter.com/tanakayohei3"
-#github = "https://github.com/dim0627"
-#instagram = "https://www.instagram.com/you19782000/"
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "social","recent", "categories", "taglist"]
 
-[outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  #facebook = "username"
+  twitter = "tanakayohei3"
+  #instagram = "username"
+  #linkedin = "username"
+  #telegram = "username"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "you1978@hotmail.com"
 
 [menu]
  [[menu.main]]

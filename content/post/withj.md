@@ -9,6 +9,8 @@ toc: true
 
 https://www.indiehackers.com/product/jenni
 
+<!--more-->
+
 ## アプリの概要
 
 ## アプリの現状

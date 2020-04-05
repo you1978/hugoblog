@@ -1,79 +1,52 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    {{ partial "meta.html" . }}
-    {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet">
-    {{ else }}
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
-    {{ end }}
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
-    {{ block "meta" . }}{{ end }}
-    <style>
-{{ partial "styles.css" . | safeCSS }}
-{{ partial "custom.css" . | safeCSS }}
-{{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
-{{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
-    </style>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-0001488994278637",
-              enable_page_level_ads: true
-         });
-    </script>
-  </head>
-
-  <body>
-    {{ if ne (getenv "HUGO_ENV") "DEV" }}
-    {{ template "_internal/google_analytics.html" . }}
-    {{ end }}
-
-    <header class="l-header">
-      <div class="l-container">
-        <div class="logo">
-          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-        </div>
-        {{ partial "description.html" . }}
-      </div>
-
-      <!--
-      <div>
-         {{ range .Site.Menus.main }}
-          <a href="{{ .URL }}" title="{{ .Title }}">
-            {{- .Name -}}
-            {{- with .Page -}}
-              <span class="date">
-              {{- dateFormat " (2006-01-02)" .Date -}}
-              </span>
-            {{- end -}}
-          </a>
-        {{ end }}
-      </div>
-    -->
-
-    </header>
-
-    <main>
-      <div class="l-container">
-        {{ block "main" . }}{{ end }}
-      </div>
-    </main>
-
-    <footer class="l-footer">
-      <div class="l-container">
-        <p>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">&copy; {{ .Site.Title }}</span>{{ end }}</p>
-        <aside>
-          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
-          <p><a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
-        </aside>
-      </div>
-    </footer>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-  </body>
+<html class="no-js" lang="{{ .Site.Language.Lang | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+	{{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
+	{{ if .Site.Params.twitter_cards }}{{ template "_internal/twitter_cards.html" . }}{{ end }}
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	{{ with .OutputFormats.Get "rss" -}}
+	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+	{{ end -}}
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
+	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+	{{ range .Site.Params.customCSS -}}
+	<link rel="stylesheet" href="{{ . | relURL }}">
+	{{- end }}
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	{{- if not .Site.IsServer }}
+		{{ template "_internal/google_analytics_async.html" . }}
+	{{- end }}
+</head>
+<body class="body">
+	<div class="container container--outer">
+		{{ partial "header" . }}
+		<div class="wrapper flex">
+			<div class="primary">
+			{{ block "main" . }}
+				{{ with .Content }}
+				<div class="content main__content clearfix">
+					{{ . }}
+				</div>
+				{{ end }}
+			{{ end }}
+			</div>
+			{{ partial "sidebar.html" . }}
+		</div>
+		{{ partial "footer" . }}
+	</div>
+<script async defer src="{{ "js/menu.js" | relURL }}"></script>
+{{ range .Site.Params.customJS -}}
+<script src="{{ . | relURL }}"></script>
+{{- end }}
+{{- partial "mathjax.html" . -}}
+</body>
 </html>
-

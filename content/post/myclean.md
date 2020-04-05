@@ -4,12 +4,15 @@ date: 2019-09-21T09:20:17Z
 thumbnail: /images/Clean.png
 draft: false
 toc: true
+share: true
 ---
 
 **2019年9月22日　作成**
 
 本日は、アメリカの掃除代行サービスを紹介します。
 https://www.myclean.com/
+
+<!--more-->
 
 ## サービスの概要
 
