@@ -1,11 +1,11 @@
 
 baseurl = "https://anyplace2030.work/"
 title = "セミリタイアを目指すブログ"
-languageCode = "en-us"
+languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-11961133-2" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "Yohei Tanaka"  
