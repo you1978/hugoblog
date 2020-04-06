@@ -61,3 +61,10 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     title = "blog section"
     url = "/post/"
     weight = -110
+
+  [[menu.main]]
+    identifier = "micro"
+    name = "マイクロビジネス"
+    title = "microbusiness section"
+    url = "/micro/"
+    weight = -110
