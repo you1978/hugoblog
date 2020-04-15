@@ -14,7 +14,7 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 
 [Params]
   subtitle = "黄金の未来の探し方" # Subtitle of your site
-  description = "セミリタイアを目指すための過程を書いたブログ" # Description of your site
+  description = "マレーシア在住のリモートワークプログラマーサラリーマンがセミリタイアを目指すための過程を書いたブログ！" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = true # Show "Read more" button in list if true
