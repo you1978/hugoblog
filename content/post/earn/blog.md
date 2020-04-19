@@ -1,16 +1,16 @@
 ---
 title: "ワードプレスブログの始め方！"
-date: 2020-04-08T21:02:39Z
+date: 2020-04-19T21:02:39Z
 draft: false
 toc: true
 thumbnail: /images/obi-onyeador-Ba6yMq9KY00-unsplash.jpg
-draft: true
+draft: false
 toc: true
 tags:
     - ブログ
 ---
 
-**2020年4月9日　作成**
+**2020年4月19日　作成**
 
 ブログを始めたいが、何を始めたら
 良いか分からないから教えて欲しい！
