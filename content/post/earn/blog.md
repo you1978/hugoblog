@@ -1,8 +1,8 @@
 ---
 title: "ワードプレスブログの始め方！"
-date: 2020-04-19T21:02:39Z
+date: 2020-04-18T21:02:39Z
 toc: true
-thumbnail: /images/obi-onyeador-Ba6yMq9KY00-unsplash.jpg
+thumbnail: "/images/obi-onyeador-Ba6yMq9KY00-unsplash.jpg"
 draft: false
 toc: true
 tags:
