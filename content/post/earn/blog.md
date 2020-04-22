@@ -1,5 +1,5 @@
 ---
-title: "ワードプレスブログの始め方！"
+title: "wordpressの始め方！"
 date: 2020-04-18T21:02:39Z
 toc: true
 thumbnail: "/images/webaroo-zs98a0DtKL4-unsplash.jpg"
@@ -18,9 +18,9 @@ tags:
 
 <!--more-->
 
-## ワードプレスブログの始め方
+## wordpressブログの始め方
 
-この記事を読むと、ワードプレス(wordpress)ブログが構築できます！
+この記事を読むと、wordpress(ワードプレス)ブログが構築できます！
 
 私は、今まで10個以上インターネットのサイトを作成してきました！  
 その経験から説明します！  
