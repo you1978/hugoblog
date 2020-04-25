@@ -1,9 +1,10 @@
 ---
-title: "セミリタイアの仕事"
+title: "セミリタイア後の仕事"
 description: ""
 date: "2020-04-25T02:08:33Z"
 toc: true
 share: true
+draft: false
 thumbnail: "images/helloquence-5fNmWej4tAA-unsplash.jpg"
 categories:
   - ""
@@ -19,6 +20,8 @@ tags:
 
 <!--more-->
 
-## セミリタイア後の仕事
+## セミリタイア後のおすすめの仕事
 
-セミリタイアを実現した人が書いたブログ５選
+セミリタイアを実現した後、お金がなくなってしまった場合は、一番重要なのは、活きるのは技術、知識、人脈です。　　
+
+つまり人間力
