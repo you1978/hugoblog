@@ -1,5 +1,5 @@
 ---
-title: "wordpressの始め方！"
+title: "WordPressの始め方！"
 date: 2020-04-18T21:02:39Z
 toc: true
 thumbnail: "/images/webaroo-zs98a0DtKL4-unsplash.jpg"
