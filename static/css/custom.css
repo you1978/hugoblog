@@ -1,3 +1,9 @@
+
+strong{
+  font-weight: bold;
+  background: linear-gradient(transparent 60%, #ffcc99 50%);   
+}
+
 .content a{
   color: #0000ff;
 }
