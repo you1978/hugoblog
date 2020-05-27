@@ -5,7 +5,7 @@ date: "2020-04-11T03:27:45Z"
 toc: true
 share: true
 draft: false
-thumbnail: "/images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
+thumbnail: "/images/glenn-carstens-peters-npxxwgq33zq-unsplash.jpg"
 categories:
   - ""
 tags:
