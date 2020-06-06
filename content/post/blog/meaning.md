@@ -5,7 +5,7 @@ date: "2020-06-06T01:41:32Z"
 toc: true
 share: true
 draft: false
-thumbnail: "images/"
+thumbnail: "images/denys-nevozhai-z0nVqfrOqWA-unsplash.jpg"
 categories:
   - ""
 tags:
@@ -21,7 +21,7 @@ tags:
 
 <!--more-->
 
-##セミリタイアとは、今の会社の仕事を今より減らして、自分の事業を持つようなライフスタイル
+## セミリタイアとは、今の会社の仕事を今より減らして、自分の事業を持つようなライフスタイル
 
 一般的には、仕事時間を半分にするようなライフスタイルを指します。
 残りの半分は自由な時間です。完全なリタイアでもなく完全な仕事人間でもない働き方です。  
