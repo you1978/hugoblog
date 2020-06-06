@@ -126,3 +126,32 @@ strong{
     padding: 0;
   }
   
+
+.links {
+    background-color: #fff;
+    border: 1px solid #111;
+    list-style: none;
+    position: relative;
+    margin: 3em 0;
+    padding: 1.5em 1em;
+}
+.links:before {
+    content: "おススメの記事";
+    color: #ff4f02;
+    background-color: #fff;
+    font-size: 1.2em;
+    position: absolute;
+    top: -1.2em;
+    left: 1em;
+    padding: 0 .5em;
+}
+.links:after {
+    content: "セミリタイアを目指すプロうグラマーのブログ";
+    color: #111;
+    background-color: #fff;
+    font-size: 1.2em;
+    position: absolute;
+    bottom: -0.8em;
+    right: 1em;
+    padding: 0 .5em;
+}

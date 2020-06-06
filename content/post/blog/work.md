@@ -32,7 +32,7 @@ tags:
 お金だけではなくその文章をみた人から仕事の依頼が来る可能性もあります。
 
 ブログを始めたいという方は私の別の記事を参照してください！  
-[WordPressブログの始め方]({{< ref "/post/earn/blog.md" >}})  
+{{< link src="/post/earn/blog" title="WordPressブログの始め方">}}
 
 ## 理由別おすすめの仕事
 

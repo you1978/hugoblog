@@ -31,7 +31,7 @@ WordPressブログってお金かかるんでしょう？
 最初の１年間は、最低16,501円かかります！    
 次の１年間は、最低17,490円かかります!  
 
-[WordPressブログの始め方]({{< ref "/post/earn/blog.md" >}})  
+{{< link src="/post/earn/blog" title="WordPressブログの始め方">}}
 
 しかし、、、  
 とりあえず無料で始めたいという人に朗報です！  

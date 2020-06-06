@@ -26,7 +26,7 @@ tags:
 ## 新しい働き方はセミリタイアです！
 
 セミリタイアが一つの新しい働き方です！
-[セミリタイアとは]({{< ref "/post/blog/semi-retirement.md" >}})  
+{{< link src="/post/blog/semi-retirement" title="セミリタイアとは">}}
 
 理由を説明する前に、働くつまり労働ということを考えています。  
 マルクスの「資本論」の要約より、資本主義には、資本家と労働者が存在していると書かれています。  
@@ -96,10 +96,10 @@ tags:
 少ない元手で始められます。
 
 下記参考の記事のリンクです。  
-[WordPressの始め方]({{< ref "/post/earn/blog.md" >}})  
+{{< link src="/post/earn/blog" title="WordPressの始め方">}}
 
 ゼロ円で始めたい方は、下記の記事を参照してください。  
-[WordPressブログを１年間無料で提供します！]({{< ref "/post/earn/start.md" >}})  
+{{< link src="/post/earn/start" title="WordPressブログを１年間無料で提供します！">}}
 
 ## 最後に
 
