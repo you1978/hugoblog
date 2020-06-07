@@ -36,16 +36,18 @@ tags:
 
 そして、労働は単純化する傾向にあり、単純化するほど能力が必要なく代わり（スペア）が効く労働になります。そのため、資本家は、**増えた労働力から低い賃金で働く労働者を選ぶ**ため、資本家は人件費を浮かすことになるので、結果的に儲かります。
 
-そして、それが**格差社会をどんどん進行させていく**という内容があります。
+そして、それが**格差社会をどんどん進行させていく**という内容が書いてあります！
 
+![This is a book](/images/book1.JPG)
 {{< raw >}}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=beauplace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MEGHQTQ&linkId=82633302ac2249fe3dfa3d47301a2a56"></iframe>
+<div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;zoom: 1;overflow: hidden;"><div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" ><img src="" style="border: none;" /></a></div><div class="booklink-info" style="line-height:120%;zoom: 1;overflow: hidden;"><div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" ></a><div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail" style="margin-bottom:5px;"></div><div class="booklink-link2" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" >Amazonで購入</a></div><div class="shoplinkkindle" style="display:inline;margin-right:5px"><a href="https://www.amazon.co.jp/gp/search?keywords=&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=beauplace-22" target="_blank" >Kindleで購入</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer" style="clear: left"></div></div>
 {{< /raw >}}
 
 
 ## 150年前の働き方
 
-マルクスが150年前に書いた「資本論」では、資本家が設備を購入し労働者が使い商品を生み出していく。
+マルクスが150年前に書いた「資本論」では、資本家が設備を購入し労働者が使い商品を生み出していく！
+
 商品を生み出す設備は高価のため、だれでも手に入れることはできず資本家しか手に入れることができない。  
 
 これが格差社会の本質だと言っているように解釈できます。  
@@ -71,7 +73,8 @@ tags:
 元手はほとんどかからずアイディアとその人の時間をかければ**自分で商品を作れる時代**になりました!
 つまり、能力に限らず現代の時代は、意欲があれば**誰でも資本家**になれます！
 
-そのために必要なことはまず**意欲**です。  
+そのために必要なことはまず**意欲**です！  
+
 意欲がない人は資本家になれません。  
 逆に意欲さえあれば誰でも資本家になれる時代なんです！
 
@@ -79,16 +82,18 @@ tags:
 
 ## 具体的な始め方
 
-キャリアの最初は労働者で始めることをおススメします!
+キャリアの最初は労働者で始めることをおススメします！  
 労働者になり資本家を観察します。そして数年のキャリアを持ち労働者かつ資本家になります。  
 
 つまり最初は、労働者として週5日働きます。  
 
 労働者は、マルクスが書いた通り常に資本家から値踏みされて安価な労働力に置き換えられます。  
+
 労働者としては、常に労働力以上に価値を提供することを心がけます。  
 
 そして、常に労働力以上の価値を提供を続けて、交渉に挑みます。
 その交渉とは、労働時間を減らす交渉です。もちろん対価も減らします。  
+  
 労働対価を6割にして、労働時間を8割にします。つまり週4日にします。  
 
 **資本家はコスト**しか見てません。その性質を逆に利用するのです！

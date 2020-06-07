@@ -57,7 +57,7 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     name = "自己紹介"
     title = "blog section"
     url = "/pages/about/"
-    weight = -120
+    weight = 0
 
  [[menu.main]]
     identifier = "blog"
