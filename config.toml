@@ -67,11 +67,18 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     weight = -110
 
   [[menu.main]]
+    identifier = "invest"
+    name = "投資"
+    title = "invest section"
+    url = "/post/invest"
+    weight = -100
+
+  [[menu.main]]
     identifier = "earn"
     name = "稼ぐ方法"
     title = "earn section"
     url = "/post/earn"
-    weight = -20
+    weight = -90
 
   [[menu.main]]
     identifier = "seo"
