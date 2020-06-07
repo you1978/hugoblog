@@ -160,3 +160,103 @@ body {
   font-family: 'ヒラギノ角ゴ ProN W3',Hiragino Sans,'ヒラギノ角ゴ ProN W3',Hiragino Kaku Gothic ProN,"メイリオ",Meiryo,sans-serif;
   font-size: 16.8px;
 }
+
+.kaerebalink-box {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px 1px #ddd;
+  padding: 15px;
+  overflow: hidden; /* float解除用 */
+  margin-bottom: 20px;
+}
+.kaerebalink-image {
+  margin-right: 18px;
+  float:left;
+}
+.kaerebalink-image img {
+  box-shadow: 0 0 1px 1px #ccc;
+}
+.kaerebalink-info {
+  font-size: 14px;
+  margin: 0;
+  overflow: hidden; /* float解除用 */
+}
+.kaerebalink-name {
+  font-size: 18px;
+  margin-top: 2px;
+}
+.kaerebalink-detail {
+  margin-top: 5px;
+}
+.kaerebalink-powered-date {
+  font-size: 12px;
+  margin-top: 5px;
+}
+.kaerebalink-link1 {
+  font-size: 16px;
+}
+.shoplinkamazon, .shoplinkrakuten {
+  float: left;
+  width: 40%;
+  text-align: center;
+  margin: 17px 10px 0;
+  padding: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-shadow:1px 1px 1px rgba(0,0,0,0.3);
+  background: -moz-linear-gradient(top,#FFF 0%,#EEE);
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#EEE));
+}
+.shoplinkamazon a{
+  color: #565656;
+}
+.shoplinkrakuten a{
+  color: #FF0040;
+}
+.shoplinkamazon a, .shoplinkrakuten a {
+  text-decoration: none;
+  display: block;
+}
+.shoplinkamazon a:hover, .shoplinkrakuten a:hover {
+  opacity: 0.7;
+  background: -moz-linear-gradient(top,#FFF 80%,#EEE);
+}
+@media only screen and (max-width: 580px) {
+  .kaerebalink-box {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px 1px #ddd;
+  padding: 10px 15px;
+}
+.kaerebalink-image {
+  margin: 0 0 10px 0;
+  float: none;
+}
+.kaerebalink-image img {
+  margin: 0 auto;
+}
+.kaerebalink-info {
+  font-size: 12px;
+  margin: 0;
+}
+.kaerebalink-name {
+  font-size: 15px;
+  margin-top: 2px;
+}
+.kaerebalink-detail {
+  margin-top: 5px;
+}
+.kaerebalink-powered-date {
+  font-size: 11px;
+  margin-top: 5px;
+}
+.kaerebalink-link1 {
+  font-size: 14px;
+}
+.shoplinkamazon, .shoplinkrakuten {
+  float: none;
+  width: 96%;
+  margin: 10px 0;
+  padding: 5px 0;
+}
+}

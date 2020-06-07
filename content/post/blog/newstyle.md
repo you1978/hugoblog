@@ -40,7 +40,8 @@ tags:
 
 ![This is a book](/images/book1.JPG)
 {{< raw >}}
-<div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;zoom: 1;overflow: hidden;"><div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" ><img src="" style="border: none;" /></a></div><div class="booklink-info" style="line-height:120%;zoom: 1;overflow: hidden;"><div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" ></a><div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail" style="margin-bottom:5px;"></div><div class="booklink-link2" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" >Amazonで購入</a></div><div class="shoplinkkindle" style="display:inline;margin-right:5px"><a href="https://www.amazon.co.jp/gp/search?keywords=&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=beauplace-22" target="_blank" >Kindleで購入</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer" style="clear: left"></div></div>
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" ><img src="" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" ></a><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail"></div><div class="booklink-link2"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MEGHQTQ/beauplace-22/" target="_blank" >Amazonで購入</a></div>                                    	  	  	  	  	</div></div><div class="booklink-footer"></div></div></div>
+<br><br>
 {{< /raw >}}
 
 
@@ -93,7 +94,7 @@ tags:
 
 そして、常に労働力以上の価値を提供を続けて、交渉に挑みます。
 その交渉とは、労働時間を減らす交渉です。もちろん対価も減らします。  
-  
+
 労働対価を6割にして、労働時間を8割にします。つまり週4日にします。  
 
 **資本家はコスト**しか見てません。その性質を逆に利用するのです！
