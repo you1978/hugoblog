@@ -156,6 +156,35 @@ ul.links {
     padding: 0 .5em;
 }
 
+ul.links2 {
+  background-color: #fff;
+  border: 1px solid #111;
+  list-style: none;
+  position: relative;
+  margin: 3em 0;
+  padding: 1.5em 1em;
+}
+.links2:before {
+  content: "おススメのサイト";
+  color: #ff4f02;
+  background-color: #fff;
+  font-size: 1.2em;
+  position: absolute;
+  top: -1.2em;
+  left: 1em;
+  padding: 0 .5em;
+}
+.links2:after {
+  content: "セミリタイアを目指すプログラマーのブログ";
+  color: #111;
+  background-color: #fff;
+  font-size: 1.2em;
+  position: absolute;
+  bottom: -0.8em;
+  right: 1em;
+  padding: 0 .5em;
+}
+
 body {
   font-family: 'ヒラギノ角ゴ ProN W3',Hiragino Sans,'ヒラギノ角ゴ ProN W3',Hiragino Kaku Gothic ProN,"メイリオ",Meiryo,sans-serif;
   font-size: 16.8px;
