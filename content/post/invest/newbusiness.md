@@ -103,10 +103,10 @@ RUSTのオンライントレーニングを日本語で実施すると価値を�
 個人で作るなら圧倒的に便利アプリです。  
 
 私が作った暗号化アプリのリンクを貼ります！  
-[暗号化アプリ](https://play.google.com/store/apps/details?id=tv.libary.code "暗号化アプリ")
+{{< link2 src="https://play.google.com/store/apps/details?id=tv.libary.code" title="暗号化アプリ" >}}
 
 私の場合は、同時にFlutterのトレーニングサイトも作っています！   
-[Flutterドリル](https://flutter-tutorial.work/ "Flutterドリル")
+{{< link2 src="https://flutter-tutorial.work/" title="Flutterドリル" >}}
 
 アプリ開発＋トレーニングサイト運営の2毛作です！
 
