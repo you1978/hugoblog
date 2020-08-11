@@ -9,12 +9,12 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 
 [Author]
   name = "Yohei Tanaka"  
-  bio = "マイクロビジネス研究家。マレーシア在住ベトナムハノイに出張多数。世界の股にかけるプログラマー上がりのブリッジSE。8歳の女の子の父親"
+  bio = "マイクロビジネス研究家。福岡在住ベトナムハノイに出張多数。世界の股にかけるプログラマー上がりのブリッジSE。8歳の女の子の父親"
   avatar = "images/author.jpg"
 
 [Params]
   subtitle = "黄金の未来の探し方" # Subtitle of your site
-  description = "マレーシア在住のリモートワークプログラマーサラリーマンがセミリタイアを目指すための過程を書いたブログ！" # Description of your site
+  description = "福岡在住のリモートワークプログラマーサラリーマンがセミリタイアを目指すための過程を書いたブログ！" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = true # Show "Read more" button in list if true
@@ -86,6 +86,13 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     title = "seo section"
     url = "/post/seo"
     weight = -30
+
+  [[menu.main]]
+    identifier = "living"
+    name = "海外生活"
+    title = "Oversea Living"
+    url = "/post/live"
+    weight = -20
 
   [[menu.main]]
     identifier = "micro"
