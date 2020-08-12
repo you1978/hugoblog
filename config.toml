@@ -89,8 +89,8 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 
   [[menu.main]]
     identifier = "living"
-    name = "海外生活"
-    title = "Oversea Living"
+    name = "新生活"
+    title = "New Living"
     url = "/post/live"
     weight = -20
 
