@@ -14,16 +14,16 @@ tags:
 {{< raw >}}
    <form name="contact" method="POST" data-netlify="true">
             <p>
-              <label>Your Name: <input type="text" name="name" /></label>   
+              <label>お名前: <input type="text" name="name" /></label>   
             </p>
             <p>
-              <label>Your Email: <input type="email" name="email" /></label>
+              <label>メールアドレス: <input type="email" name="email" /></label>
             </p>
             <p>
-              <label>Message: <textarea name="message"></textarea></label>
+              <label>メッセージ: <textarea name="message"></textarea></label>
             </p>
             <p>
-              <button type="submit">Send</button>
+              <button type="submit">送信</button>
             </p>
           </form>
 {{< /raw >}}
