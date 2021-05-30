@@ -36,7 +36,7 @@ tags:
 ## ハピタスに登録
 
 下記のリンクをクリック
-{{< link2 src="https://hapitas.jp/register?i=22657924&route=referralCampaignText" title=ハピタス登録 >}}
+{{< link2 src="https://hapitas.jp/register?i=22657924&route=referralCampaignText" title="ハピタス登録" >}}
 
 下記のトップ画面より中央の「今すぐポイントを貯める!」をクリックしてください。
 ![Hapitas](/images/hapitas1-1.png)
@@ -53,7 +53,7 @@ Step6 登録完了
 ## 三井住友カード（ナンバーレス）に申し込む
 
 下記のハピタスのページから三井住友カードを申し込みます！
-{{< link2 src="https://hapitas.jp/item/detail/itemid/78961?apn=mitsuinl2104" title=三井住友カード（ナンバーレス) >}}
+{{< link2 src="https://hapitas.jp/item/detail/itemid/78961?apn=mitsuinl2104" title="三井住友カード（ナンバーレス)" >}}
 
 「ポイントを貯める」をクリックします。
 
@@ -71,8 +71,8 @@ Step6 登録完了
 実際に届いたカードはナンバーもなく見た目もカッコイイ
 ![三井住友カード(ナンバーレス)](/images/Hapitas2-1.jpg)
 
-ぜひ、ハピタスお得なので登録してみてください。
-{{< link2 src="https://hapitas.jp/register?i=22657924&route=referralCampaignText" title=ハピタス登録 >}}
+ぜひ、ハピタスお得なので登録してみてください。オススメです！
+{{< link2 src="https://hapitas.jp/register?i=22657924&route=referralCampaignText" title="ハピタス登録" >}}
 
 
 
