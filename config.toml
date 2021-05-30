@@ -98,9 +98,9 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     url = "/post/live"
     weight = -20
 
-  [[menu.main]]
-    identifier = "micro"
-    name = "世界のマイクロビジネス紹介"
-    title = "microbusiness section"
-    url = "/post/micro"
-    weight = -10
+#  [[menu.main]]
+#    identifier = "programing"
+#    name = "プログラミング"
+#    title = "programing section"
+#    url = "/post/programing"
+#    weight = -10
