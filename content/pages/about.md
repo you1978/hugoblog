@@ -32,7 +32,7 @@ rating: 1
 年齢: 40代  
 趣味: プログラム開発/Youtube/読書 + 最近筋トレ  
 仕事: マレーシアの日系企業勤務  
-家族: 妻+8歳の女の子  
+家族: 妻+10歳の女の子  
 
 是非、Twitterのフォローをお願いします。 
 <a href="https://twitter.com/intent/tweet?url=http%3a%2f%2flocalhost%3a1313%2fpages%2fabout%2f&text=About&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>

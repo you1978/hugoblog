@@ -9,7 +9,7 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 
 [Author]
   name = "Yohei Tanaka"  
-  bio = "マイクロビジネス研究家。福岡を拠点にベトナムハノイへ出張多数(コロナ自粛中)。世界の股にかけるプログラマー上がりのブリッジSE。9歳の女の子の父親"
+  bio = "マイクロビジネス研究家。福岡を拠点にベトナムハノイへ出張多数(現在はコロナ自粛中)。世界の股にかけるプログラマー上がりのブリッジSE。10歳の女の子の父親"
   avatar = "images/author.jpg"
 
 [Params]
