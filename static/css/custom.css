@@ -1,4 +1,54 @@
 
+.btn-5 {
+  background-color: #79a1d4; /* ボタン背景色 */
+  color: #fff; /* ボタン文字色 */
+  box-shadow: 0 5px 0 0 #194174; /* ボタン陰色 */
+  font-weight: bold;
+  border-radius: 4px;
+  max-width: 80%;
+  margin: 0.5em auto;
+  padding: 0;
+  text-align: center;
+  line-height: 1.4;
+  transition: all .2s ease;
+}
+
+.btn-5:hover {
+  opacity: 0.8;
+}
+
+.btn-5 a {
+  text-decoration: none !important;
+  color: #fff !important;
+  display: block;
+  margin: 0;
+  padding: 0.5em;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-5 a::before {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  left: -100%;
+  top: -50vh;
+  content: '';
+  width: 3rem;
+  height: 100vh;
+  transform: rotate(5deg);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 0) 100%);
+  animation: highLight 3s ease-in-out 0s infinite;
+}
+
+@keyframes highLight {
+  from { left: -5%; }
+  15%, 100% { left: 105%; }
+}
+
+.btn-5 > img { float: left; }
+.btn-5::after{ content: ''; clear: left; }
+
 strong{
   font-weight: bold;
   background: linear-gradient(transparent 60%, #ffcc99 50%);   
