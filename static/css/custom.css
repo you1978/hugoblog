@@ -6,7 +6,7 @@
   font-weight: bold;
   border-radius: 4px;
   max-width: 80%;
-  margin: 0.5em auto;
+  margin: 1em 1em 3em auto;
   padding: 0;
   text-align: center;
   line-height: 1.4;
@@ -22,7 +22,7 @@
   color: #fff !important;
   display: block;
   margin: 0;
-  padding: 0.5em;
+  padding: 1em;
   position: relative;
   overflow: hidden;
 }
