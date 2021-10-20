@@ -545,3 +545,136 @@ after
 
 プログラマーに特化した
 
+光回線
+
+
+予備としてスマホのデザリング
+ルーターを最新のものに使う
+
+LANケーブル
+カテゴリー６もしくは７
+
+企業のメリット
+
+・雇用維持費を抑制できる
+・日本中（世界中）から優秀な人材を確保できる
+　（距離の壁を越える）
+・言葉の壁も越える
+　
+
+交通費がかからない
+オフィス代がかからない
+福利厚生費がかからない
+（寮・住宅手当　等）
+備品代がかからない
+
+採用コンサルティング
+- 求める人材をどうしたらいいか
+- 求人サイトを作る
+　説明会の内容
+　面接
+　中身にする
+ー 中途の採用
+　　採用する側の
+
+不安定なところがある
+ - フリーランスの安定の仕事
+ - 
+
+ プライベートな情報
+  - キッチン
+  - 目線の高さ
+
+簡潔
+ - 大概のところは受かる
+ - 
+
+リワークス
+ - 
+
+
+
+ import java.util.Scanner;
+public class Main {
+    public static void main(String args[]) {
+      Scanner s = new Scanner(System.in);
+      int i = Integer.parseInt(s.next)
+
+      int base = i;
+      if(in.hasNext()==false){
+          int today = Integer.parseInt(s.next);
+          if( base > today ){
+            System.out.print("down ");
+            System.out.println(base-today);
+          }else if( base < today ){
+            System.out.print("up ");
+            System.out.print(today-base);
+          }else{
+              System.out.println("stay ");
+          }
+          base = today;
+      }
+      
+      boolean result = true;
+      
+      if( text.length() != 3 ){
+        System.out.println("error");
+        return;
+      }
+      
+      for(int i = 0; i < text.length(); i++) {
+        if(Character.isDigit(text.charAt(i))) {
+          continue;
+        }else{
+          result = false;
+        }
+      }
+      
+      if( result ){
+        int i = Integer.parseInt(text);
+        System.out.println(i*2);
+      }else{ 
+     	 System.out.println("error");
+      }
+    }
+}
+
+
+import java.util.*;
+public class Main {
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+		// 整数の入力
+		int a = sc.nextInt();
+		// スペース区切りの整数の入力
+		int b = sc.nextInt();
+		int c = sc.nextInt();
+		// 文字列の入力
+		String s = sc.next();
+		// 出力
+		System.out.println((a+b+c) + " " + s);
+	}
+}
+
+今日やりたいこと
+・Kindle本出版
+・ブログ書く
+・歯医者に行く
+
+5万円
+
+セールスをせずに5万円稼ぐ方法
+
+臨時収入5万円稼ぐ方法
+
+読めば5万円稼げる本
+
+
+**
+現状の課題
+結論
+理由
+具体例
+反論フォロー
+結論
+**
