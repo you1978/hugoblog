@@ -5,6 +5,7 @@ date: "2021-07-06T12:30:15Z"
 toc: true
 share: true
 thumbnail: "images/national-cancer-institute-byGTytEGjBo-unsplash.jpg"
+draft: true
 categories:
   - ""
 tags:
