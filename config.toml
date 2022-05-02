@@ -84,12 +84,12 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     url = "/post/earn"
     weight = -90
 
-  [[menu.main]]
-    identifier = "seo"
-    name = "SEO実験室"
-    title = "seo section"
-    url = "/post/seo"
-    weight = -30
+#  [[menu.main]]
+#    identifier = "seo"
+#    name = "SEO実験室"
+#    title = "seo section"
+#    url = "/post/seo"
+#    weight = -30
 
   [[menu.main]]
     identifier = "living"
