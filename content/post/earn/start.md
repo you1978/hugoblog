@@ -4,6 +4,7 @@ description: ""
 date: "2020-04-22T12:30:31Z"
 toc: true
 share: true
+draft: true
 thumbnail: "images/jukan-tateisi-bJhT_8nbUA0-unsplash.jpg"
 categories:
   - ""
