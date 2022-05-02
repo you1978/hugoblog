@@ -92,6 +92,13 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 #    weight = -30
 
   [[menu.main]]
+    identifier = "code"
+    name = "仮想通貨"
+    title = "code section"
+    url = "/post/code"
+    weight = -30
+
+  [[menu.main]]
     identifier = "living"
     name = "新生活"
     title = "New Living"
