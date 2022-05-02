@@ -4,7 +4,7 @@ description: "本サイトのSEO対策を書いて検証しています。"
 date: "2020-04-13T22:13:14Z"
 toc: true
 share: true
-draft: false
+draft: true
 thumbnail: "/images/merakist-l5if0iQfV4c-unsplash.jpg"
 categories:
   - ""
