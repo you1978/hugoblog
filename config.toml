@@ -1,6 +1,6 @@
 
 baseurl = "https://anyplace2030.work/"
-title = "セミリタイアを目指すプログラマーのブログ"
+title = "FIREを目指すプログラマーのブログ"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
