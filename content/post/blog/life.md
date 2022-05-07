@@ -4,6 +4,7 @@ description: ""
 date: "2020-05-22T15:41:51Z"
 toc: true
 share: true
+draft: true
 thumbnail: "images/jared-rice-NTyBbu66_SI-unsplash.jpg"
 categories:
   - ""

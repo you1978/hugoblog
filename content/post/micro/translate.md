@@ -1,7 +1,7 @@
 ---
 title: "WordPress翻訳プラグインTranslatePress"
 date: 2019-09-14T23:54:50Z
-draft: false
+draft: true
 toc: true
 thumbnail: /images/Translate.png
 tags:

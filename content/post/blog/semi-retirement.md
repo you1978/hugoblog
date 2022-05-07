@@ -2,7 +2,7 @@
 title: "セミリタイアとは"
 date: 2020-05-04T07:35:06Z
 thumbnail: /images/obi-onyeador-Ba6yMq9KY00-unsplash.jpg
-draft: false
+draft: true
 toc: true
 tags:
     - セミリタイア 

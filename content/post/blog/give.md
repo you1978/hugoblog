@@ -3,7 +3,7 @@ title: "与えるということ"
 date: 2019-06-16T07:12:55Z
 tags: [ "人生哲学" ]
 thumbnail: "images/adult-asia-boys.jpg"
-draft: false
+draft: true
 ---
 
 こんにちは、マイクロビジネス研究家の田中です。

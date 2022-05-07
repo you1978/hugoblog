@@ -19,7 +19,7 @@ tags:
 2021年9月24日　作成
 {{< /bold >}}
 
-こんにちはマイクロビジネス研究家田中です。
+こんにちは、ようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})です。
 
 ## セルフバックとは？
 

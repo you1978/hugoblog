@@ -9,35 +9,35 @@ rating: 1
 
 ## このサイトについて
 
-こんにちは、仮想通貨でFIREを目指すブログを運営している田中です。
+こんにちは、「暗号資産でFIREを目指す」を運営している田中です。
 
 本ブログは、実現するまでの過程を記事にします。
-
-本ブログのセミリタイアとFIREの定義は下記の記事を参照してください。  
-[セミリタイアとは]({{< ref "/post/blog/semi-retirement.md" >}}) 
 
 ### このサイトの対象者
 
 こんな人を想定して運営しています。  
 
-- 仮想通貨を始めたい方
+- 暗号資産を始めたい方
 - 同じようにFIREを目指しいている方
 
 ### 作成者について
 
 このサイトを作成・運営している人の紹介です。  
 
-通称: ~~世界の股にかけるプログラマー上がりのブリッジSE~~ 仮想通貨でFIREを目指すプラグラマー   
-生息地: ~~マレーシア/サイバージャヤ~~ 福岡    
+通称: 仮想通貨でFIREを目指すプラグラマー   
+生息地: 福岡    
 出身地: 神奈川県  
 年齢: 40代  
 趣味: プログラム開発/Youtube/読書 + 最近筋トレ  
-仕事: マレーシアの日系企業勤務  
-家族: 妻+10歳の女の子  
+仕事: 日系ベンチャー企業勤務  
+家族: 妻+11歳の女の子  
 
-是非、Twitterのフォローをお願いします。 
-<a href="https://twitter.com/intent/tweet?url=http%3a%2f%2flocalhost%3a1313%2fpages%2fabout%2f&text=About&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+是非、Twitterのフォローをお願いします。   
+{{< raw >}}
+<a href="https://twitter.com/fireCodeCoin?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fireCodeCoin</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< /raw >}}
   
+
 ### 作成者はどんな人生を歩んできたのか？
 
 【幼少期】  
@@ -63,6 +63,11 @@ rating: 1
 今も162cmなんで小さい方だと思いますが、当時ほど自分が小さいことを感じなくなったと思います。  
 
 海外で働いていれば女性も男性もいますし、国によっても背の高さがぜんぜん違うので、あまり背の高さを期にすることがなくなったんだと思います。  
+
+### 略歴
+
+#### 2021年
+福岡に拠点を移す ← 今ここ
 
 #### 2020年
 マレーシアに在住しながら、日本企業にリモート勤務

@@ -1,6 +1,6 @@
 
 baseurl = "https://anyplace2030.work/"
-title = "仮想通貨でFIREを目指"
+title = "暗号資産でFIREを目指す"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -8,8 +8,8 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "Yohei"  
-  bio = "仮想通貨でFIREを目指すもの。福岡を拠点にベトナムハノイへ出張多数(現在はコロナ自粛中)。世界の股にかけるプログラマー上がりのブリッジSE。10歳の女の子の父親"
+  name = "ようへい"  
+  bio = "暗号資産でFIREを目指す。福岡を在住。サラリーマンリモートワーカー。11歳の女の子の父親"
   avatar = "images/author.jpg"
 
 [Params]
@@ -38,22 +38,26 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 [Params.widgets.social]
   # Enable parts of social widget
   #facebook = "username"
-  twitter = "tanakayohei3"
+  twitter = "fireCodeCoin"
   #instagram = "username"
   #linkedin = "username"
   #telegram = "username"
-  github = "you1978"
+  #github = "you1978"
   #gitlab = "username"
   #bitbucket = "username"
-  email = "you1978@hotmail.com"
+  #email = "you1978@hotmail.com"
 
 [[Params.widgets.social.custom]]
   title = "問合せフォーム"
   url = "/pages/contactus/"
 
+# [[Params.widgets.social.custom]]
+#   title = "note"
+#   url = "https://note.com/you1978"
+
 [[Params.widgets.social.custom]]
-  title = "note"
-  url = "https://note.com/you1978"
+  title = "Line"
+  url = "https://lin.ee/s3Ji7QW"
 
 [menu]
  [[menu.main]]
@@ -63,26 +67,54 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     url = "/pages/about/"
     weight = 0
 
- [[menu.main]]
-    identifier = "blog"
-    name = "ブログ"
+   [[menu.main]]
+    identifier = "code"
+    name = "暗号資産を始める"
     title = "blog section"
-    url = "/post/blog"
-    weight = -110
-
-  [[menu.main]]
-    identifier = "invest"
-    name = "投資"
-    title = "invest section"
-    url = "/post/invest"
+    url = "/post/code"
     weight = -100
 
-  [[menu.main]]
+    [[menu.main]]
     identifier = "earn"
-    name = "稼ぐ方法"
-    title = "earn section"
+    name = "暗号資産で稼ぐ"
+    title = "blog section"
     url = "/post/earn"
     weight = -90
+
+    # [[menu.main]]
+    # identifier = "learn"
+    # name = "暗号資産を学ぶ"
+    # title = "blog section"
+    # url = "/post/learn"
+    # weight = -80
+
+    # [[menu.main]]
+    # identifier = "check"
+    # name = "収支を見る"
+    # title = "blog section"
+    # url = "/post/report"
+    # weight = -70
+
+#  [[menu.main]]
+#     identifier = "blog"
+#     name = "ブログ"
+#     title = "blog section"
+#     url = "/post/blog"
+#     weight = -110
+
+  # [[menu.main]]
+  #   identifier = "invest"
+  #   name = "投資"
+  #   title = "invest section"
+  #   url = "/post/invest"
+  #   weight = -100
+
+  # [[menu.main]]
+  #   identifier = "earn"
+  #   name = "稼ぐ方法"
+  #   title = "earn section"
+  #   url = "/post/earn"
+  #   weight = -90
 
 #  [[menu.main]]
 #    identifier = "seo"
@@ -91,19 +123,19 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 #    url = "/post/seo"
 #    weight = -30
 
-  [[menu.main]]
-    identifier = "code"
-    name = "仮想通貨"
-    title = "code section"
-    url = "/post/code"
-    weight = -30
+  # [[menu.main]]
+  #   identifier = "code"
+  #   name = "仮想通貨"
+  #   title = "code section"
+  #   url = "/post/code"
+  #   weight = -30
 
-  [[menu.main]]
-    identifier = "living"
-    name = "新生活"
-    title = "New Living"
-    url = "/post/live"
-    weight = -20
+  # [[menu.main]]
+  #   identifier = "living"
+  #   name = "新生活"
+  #   title = "New Living"
+  #   url = "/post/live"
+  #   weight = -20
 
 #  [[menu.main]]
 #    identifier = "programing"
