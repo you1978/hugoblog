@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../laravel6"
+		},
+		{
+			"path": "../../../../react_beauty_site"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}

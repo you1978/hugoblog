@@ -11,11 +11,15 @@ tags:
   - "stepn"
 ---
 
-STEPNの始め方!
+STEPNの始め方!  
 
-こんにちは、ようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})です。  
+歩いたり走るだけでお金が稼げるアプリSTEPNの始め方について解説します。
 
-歩いたり走るだけでお金が稼げるアプリSTEPNの始め方について解説します。  
+下記の実績をもつようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})が解説します。
+
+- 仮想通貨・Defi歴 半年
+- 暗号資産の無限の可能性に賭ける
+- 自らお金を使い失敗も成功もこのブログで共有します  
 
 <!--more-->
   
