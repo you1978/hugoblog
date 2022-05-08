@@ -81,12 +81,12 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
     url = "/post/earn"
     weight = -90
 
-    # [[menu.main]]
-    # identifier = "learn"
-    # name = "暗号資産を学ぶ"
-    # title = "blog section"
-    # url = "/post/learn"
-    # weight = -80
+    [[menu.main]]
+    identifier = "learn"
+    name = "暗号資産を学ぶ"
+    title = "blog section"
+    url = "/post/learn"
+    weight = -80
 
     [[menu.main]]
     identifier = "check"

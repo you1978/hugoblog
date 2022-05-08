@@ -1,5 +1,5 @@
 ---
-title: "１週目の報告"
+title: "STEPN１週目の報告"
 description: ""
 date: "2022-05-07T23:48:25Z"
 toc: true
@@ -8,7 +8,7 @@ thumbnail: "/images/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
 categories:
   - ""
 tags:
-  - ""
+  - "STEPN"
 ---
 
 STEPNの運用実績を報告します！
