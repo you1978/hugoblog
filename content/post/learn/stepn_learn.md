@@ -9,7 +9,7 @@ thumbnail: "/images/guillaume-issaly-8TDwh96Vjf4-unsplash.jpg"
 categories:
   - ""
 tags:
-  - ""
+  - "STEPN"
 ---
 
 STEPN始めようか迷っている人に向けて記事を書きました！  
@@ -44,9 +44,6 @@ STEPN始めようか迷っている人に向けて記事を書きました！
  - 初期コストが高い
  - 詐欺が多い
  - 第二、第三のSTEPNがある?
-
- 
-
 
 
  **
