@@ -6,6 +6,7 @@ toc: true
 share: true
 draft: false
 thumbnail: "/images/thom-milkovic--c8z71Jbrls-unsplash.jpg"
+https://anyplace2030.work/post/learn/stepn_level/:
 categories:
   - ""
 tags:
