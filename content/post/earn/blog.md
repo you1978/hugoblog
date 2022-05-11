@@ -1,6 +1,6 @@
 ---
 title: "WordPressの始め方！"
-date: 2020-04-18T21:02:39Z
+date: 2022-05-10T21:02:39Z
 toc: true
 thumbnail: "/images/webaroo-zs98a0DtKL4-unsplash.jpg"
 draft: false
@@ -10,7 +10,8 @@ tags:
 ---
 
 {{< bold >}}
-2020年4月19日　作成
+2020年4月19日　作成  
+2022年5月10日　更新
 {{< /bold >}}
 
 ブログを始める人向けに記事を書きました！
@@ -58,6 +59,11 @@ tags:
 ### サーバーの契約の仕方
 
 下記のバーナーよりエックスサーバーのサイトに行きましょう！
+
+ {{< button >}}
+<a href="https://px.a8.net/svt/ejp?a8mat=1HPF89+G537TU+CO4+60OXE" rel="nofollow">月額990円(税込)から、高速・多機能・高安定レンタルサーバー『エックスサーバー』</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=1HPF89+G537TU+CO4+60OXE" alt="">
+{{< /button >}}
 
 私は2009/01/20より利用を開始しているので、最初に契約してから11年経ちました！この10年不満もありませんので是非おすすめです。
 
@@ -299,6 +305,14 @@ https://xxxx
 「保護されてない通信」と表示されなければ、設定完了です。
 
 ## 最後に
+
+ブログを始めましょう!  
+  
+  
+ {{< button >}}
+<a href="https://px.a8.net/svt/ejp?a8mat=1HPF89+G537TU+CO4+60OXE" rel="nofollow">月額990円(税込)から、高速・多機能・高安定レンタルサーバー『エックスサーバー』</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=1HPF89+G537TU+CO4+60OXE" alt="">
+{{< /button >}}
 
 上記の設定でうまくいかない場合は、twitterのDMにて私に連絡してください。
 
