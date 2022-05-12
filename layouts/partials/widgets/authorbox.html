@@ -7,19 +7,17 @@
 	{{- end }}
 	{{- with .Site.Author.avatar }}
 	<figure class="authorbox__avatar">
-		<a href="{{ $.Site.BaseURL }}/pages/about/">
-			<img alt="{{ $.Site.Author.name }} avatar" src="{{ $.Site.Author.avatar | relURL }}" class="avatar" height="90" width="90">
-		</a>
+		<img alt="{{ $.Site.Author.name }} avatar" src="{{ $.Site.Author.avatar | relURL }}" class="avatar" height="90" width="90">
 	</figure>
 	{{- end }}
 	{{- with .Site.Author.name }}
 	<div class="authorbox__header">
-		<span class="authorbox__name">{{ T "authorbox_name" . }}</span>
+		<span class="authorbox__name">{{ T "authorbox_name" (dict "Name" .) }}</span>
 	</div>
 	{{- end }}
 	{{- with .Site.Author.bio }}
 	<div class="authorbox__description">
-		{{ . }}
+		{{ . | markdownify }}
 	</div>
 	{{- end }}
 </div>
