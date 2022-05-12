@@ -3,8 +3,12 @@ title: "自己紹介"
 date: 2019-08-26T07:42:22Z
 draft: false
 thumbnail: /images/author.jpg
-toc: 1
-rating: 1
+toc: true
+share: true
+categories:
+  - ""
+tags:
+  - ""
 ---
 
 ## このサイトについて
