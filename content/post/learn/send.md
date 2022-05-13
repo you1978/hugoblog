@@ -1,5 +1,5 @@
 ---
-title: "STEPNにで混雑を避けWalletにSOLを送る方法"
+title: "混雑を避けSTEPNのWalletにSOLを送る方法"
 description: ""
 date: "2022-05-13T14:13:44Z"
 toc: true
@@ -11,7 +11,7 @@ tags:
   - "STEPN"
 ---
 
-バイナンスからSTEPNのWalletに
+バイナンスからSTEPNのWalletに  
 SOLを送ろうとしても  
 混雑して送れない！！
 
