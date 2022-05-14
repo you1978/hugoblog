@@ -4,7 +4,7 @@ description: ""
 date: "2022-05-14T20:29:24Z"
 toc: true
 share: true
-thumbnail: ""
+thumbnail: "/images/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
 categories:
   - ""
 tags:
