@@ -101,7 +101,7 @@ SOLを送ることができるのです！
 下記のURLよりChangeNowにインストールします。
 
 {{< button >}}
-<a href="https://changenow.io?link_id=f7a43f719ae326">ChangeNowインストール</a>
+<a href="https://changenow.io?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">ChangeNowページ</a>
 {{< /button >}}
 
 なお、登録などは必要ないです！  
