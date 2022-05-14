@@ -59,21 +59,13 @@ BINACEからSTEPNのWalletに送ろうとすると、、、混雑。。
   
 それなら別のルートで送ればいいんじゃないか？  
 
-私は思いました!!  
-
 そんな時に思いつたのは**ChangeNow**!!!  
 
-ChangeNowはざっくり言うとコインを交換して中継してくれるサービス  
-
-BINANCEからChangeNow  
-ChangeNowからSTEPNのWallet  
-
-中継したらうまくいくんじゃないか？  
-そしてうまく行きました！  
+ChangeNowはざっくり言うと  
+**コインを交換して中継してくれるサービス**
 
 大筋の流れは下記の通りです!
-- BINANCEでBUSDを保有する
-- BUSDをChangeNowに送る
+- BINANCEからChangeNowにBUSDを送る
 - ChangeNowからSTEPNのWalletにSOLが入金される
 
 そうです!    
@@ -81,9 +73,6 @@ ChangeNowからSTEPNのWallet
 ChangeNowを中継することにより  
 STEPNのあなたのWalletに  
 SOLを送ることができるのです！  
-
-なぜか大手のSTEPNERのブログには  
-この方法は出てきません!  
 
 一度、10BUSDで試してみてください!    
 感動すること請け合いです！  
@@ -98,7 +87,7 @@ SOLを送ることができるのです！
 
 なお、登録などは必要ないです！  
 
-必要とするSOLに変更します。 
+必要とするSOLのコイン数に変更します。 
 
 **交換**をクリックします。
   
