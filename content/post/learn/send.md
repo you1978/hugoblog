@@ -98,12 +98,14 @@ SOLを送ることができるのです！
 
 ## ChangeNowをモバイルにインストールする
 
-下記のURLよりご自分のスマホにChangeNowをインストールする  
-https://changenow.io/mobile-exchange  
+下記のURLよりChangeNowにインストールします。
+
+{{< button >}}
+<a href="https://changenow.io?link_id=f7a43f719ae326">ChangeNowインストール</a>
+{{< /button >}}
 
 なお、登録などは必要ないです！  
 
-ChangeNowのアプリにて、  
 交換前のコインをBSUDとして、  
 受け取りをSOLにします。  
 
