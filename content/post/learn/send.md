@@ -92,10 +92,10 @@ SOLを送ることができるのです！
 
 必要とするSOLになるようにBUSDの値を調整します。   
 
-**交換**をクリックします。
-  
 こんな感じ
 {{< figure src="/images/IMG_20220514_225713.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+
+**交換**をクリックします。
 
 交換を押すと下記のような画面になります。
 {{< figure src="/images/1652536873830.jpg" title="Screenshot" class="center" width="320" height="640" >}}
@@ -103,7 +103,7 @@ SOLを送ることができるのです！
 「**Recipient Wallet**」には、  
 あなたのSTEPNのWalletのアドレスをコピー＆ペーストします。 
   
-「**Newxt**」を選択すると、、  
+「**Next**」を選択すると、、  
 
 ChangeNowアドレスが表示されます。 
 
