@@ -96,12 +96,12 @@ SOLを送ることができるのです！
 一度、10BUSDで試してみてください!    
 感動すること請け合いです！  
 
-## ChangeNowをモバイルにインストールする
+## ChangeNowにて、交換用の一時ページを作る
 
-下記のURLよりChangeNowにインストールします。
+下記のURLよりChangeNowのホームページにアクセスします。
 
 {{< button >}}
-<a href="https://changenow.io?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">ChangeNowページ</a>
+<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">ChangeNowページ</a>
 {{< /button >}}
 
 なお、登録などは必要ないです！  
