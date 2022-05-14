@@ -1,5 +1,5 @@
 ---
-title: "混雑を避けSTEPNのWalletにSOLを送る方法"
+title: "[STEPN] 混雑を避けWalletにSOLを送る方法"
 description: ""
 date: "2022-05-13T14:13:44Z"
 toc: true
