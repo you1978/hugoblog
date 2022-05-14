@@ -74,9 +74,10 @@ ChangeNowを中継することにより
 STEPNのあなたのWalletに  
 SOLを送ることができるのです！  
 
-なぜか大手のSTEPNERのブログにはこの方法は出てきません!  
+なぜか大手のSTEPNERのブログには  
+この方法は出てきません!  
 
-今のところ私だけが検証しているみたいです。
+私だけが検証しているみたいです。
 
 ## ChangeNowをモバイルにインストールする
 
@@ -85,13 +86,15 @@ https://changenow.io/mobile-exchange
 
 なお、登録などは必要ないです！  
 
-ChangeNowのアプリにて、
-交換前のコインをBSUDとして、受け取りをSOLにします。  
+ChangeNowのアプリにて、  
+交換前のコインをBSUDとして、  
+受け取りをSOLにします。  
 
-今なら1000BSUDは19SOLぐらいに交換できます。 
+今なら1000BSUDは  
+19SOLぐらいに交換できます。 
 
 こんな感じ
-{{< figure src="/images/1652497263066.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/1652505107252.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 金額を選択した後に  
 「取引所」を選択します。  
