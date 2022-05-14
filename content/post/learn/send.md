@@ -87,29 +87,30 @@ SOLを送ることができるのです！
 
 なお、登録などは必要ないです！  
 
-必要とするSOLのコイン数に変更します。 
+必要とするSOLになるようにBUSDの値を調整します。   
 
 **交換**をクリックします。
   
 こんな感じ
-{{< figure src="/images/1652505107252.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/IMG_20220514_225713.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
-金額を選択した後に  
-「**取引所**」を選択します。  
+交換を押すと下記のような画面になります。
+{{< figure src="/images/1652536873830.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
-取引所の「**追加SOLアドレス**」には、  
+「**Recipient Wallet**」には、  
 あなたのSTEPNのWalletのアドレスをコピー＆ペーストします。 
-
-こんな感じ
-{{< figure src="/images/Screenshot_2022-05-14-14-32-49-986_io.changenow.changenow.jpg" title="Screenshot" class="center" width="320" height="640" >}}
   
-「**次のアクション**」を選択すると、、  
+「**Newxt**」を選択すると、、  
 
 ChangeNowアドレスが表示されます。 
 
-{{< figure src="/images/Screenshot_2022-05-14-14-47-36-360_io.changenow.changenow.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/IMG_20220514_230359.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
-ここの黄色に塗りつぶしているアドレスにバイナンスからBUSDを送ります！    
+**Confirm**を押してください!  
+
+{{< figure src="/images/IMG_20220514_231202.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+
+バイナンスから上記のアドレスにBUSDを送ります。
 
 ## バイナンスからBSUDを送る
 
