@@ -34,5 +34,9 @@ STEPNの運用実績を報告します！
 STEPNのウォレットに混雑が原因で送れないって人は下記の記事を参考にしてください。
 
 {{< link src="/post/learn/send" title="混雑を避けWalletにSOLを送る方法">}}
+
+STEPN始めて1週間目の成果は下記の記事です。
+
+{{< link src="/post/report/2week" title="STEPN１週目の報告">}}
   
 
