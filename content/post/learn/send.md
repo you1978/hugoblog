@@ -30,15 +30,39 @@ SOLを送ろうとしても
 
 ## Solanaネットワーク混雑して送れない！
 
+安いスニーカーを見つけいざ買おう！  
 
+そして、バイナンスにログインして自分のアドレスを入れると、、、  
 
+下記の画面。。。
+{{< figure src="/images/1652497263066.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
+なんじゃ、いつスニーカー買えるんじゃ！！  
 
+こっちは、早くスニーカーを買って稼ぎ始めたいんじゃ！！  
+
+そう言う人に朗報です！  
+
+今回教える方法を使えば、  
+30分程度でSPTENのWalletにスニーカーを送ることができます！
 
 ## 大筋の流れ
 
-BINACEから
+BINACEからSTEPNのWalletに送ろうとすると、、、混雑。。
+  
+それなら別のルートで送ればいいんじゃないか？  
 
+私は思いました!!  
+
+そんな時に思いつたのはChangeNow!!!  
+
+ChangeNowはざっくり言うとコインを交換して中継してくれるサービス  
+
+BINANCEからChangeNow  
+ChangeNowからSTEPNのWallet  
+
+中継したらうまくいくんじゃないか？  
+そしてうまく行きました！  
 
 大筋の流れは下記の通りです!
 - BINANCEでBUSDを保有する
@@ -48,17 +72,26 @@ BINACEから
 そうです。  
 ChangeNowを中継することにより  
 STEPNのあなたのWalletに  
-SOLを送ることができるのです！
+SOLを送ることができるのです！  
+
+なぜか大手のSTEPNERのブログにはこの方法は出てきません!  
+
+今のところ私だけが検証しているみたいです。
 
 ## ChangeNowをモバイルにインストールする
 
 下記のURLよりご自分のスマホにChangeNowをインストールする  
 https://changenow.io/mobile-exchange  
 
+なお、登録などは必要ないです！  
+
 ChangeNowのアプリにて、
 交換前のコインをBSUDとして、受け取りをSOLにします。  
-  
-今なら1000 BSUDは18SOLぐらいに交換できます。  
+
+今なら1000BSUDは19SOLぐらいに交換できます。 
+
+こんな感じ
+{{< figure src="/images/1652497263066.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 金額を選択した後に  
 「取引所」を選択します。  
