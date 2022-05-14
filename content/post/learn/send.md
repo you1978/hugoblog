@@ -124,15 +124,19 @@ ChangeNowのアプリにて、
 こんな感じ
 {{< figure src="/images/Screenshot_2022-05-14-14-32-49-986_io.changenow.changenow.jpg" title="Screenshot" class="center" width="320" height="640" >}}
   
-次のアクションを選択すると、、  
+「**次のアクション**」を選択すると、、  
 
-ChangeNowアドレスが表示されます。  
+ChangeNowアドレスが表示されます。 
+
+{{< figure src="/images/Screenshot_2022-05-14-14-47-36-360_io.changenow.changenow.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+
+ここの黄色に塗りつぶしているアドレスにバイナンスからBUSDを送ります！    
 
 ## バイナンスからBSUDを送る
 
 バイナンスからChangeNowにBUSDを送ります。  
 
-送り先は先ほどのChangeNowのアドレスを貼り付けます。
+先ほどのChangeNowのアドレスを貼り付けます。
   
 ネットワークは必ず「BNB SmartChain」を選択してください。
 
