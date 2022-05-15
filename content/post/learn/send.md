@@ -95,8 +95,11 @@ BINANCEのトレードにて20BUSDをSOLにトレードする
 
 BINANCEのトレードにて1000BUSDをSOLにトレードする  
 18.15632919SOLです  
+{{< figure src="/images/1000ChangeBefore.png" title="Screenshot" class="center" width="320" height="640" >}}
 
-一方、ChangeNowでは、17.8946723　SOLでした。  
+一方、ChangeNowでは、17.8946723　SOLでした。 
+{{< figure src="/images/1000ChangeAfter.png" title="Screenshot" class="center" width="320" height="640" >}}
+
 差分は、0.26165689で送金額の約1.44%です。
 
 ChangeNowの変換後は確定ではなく  
