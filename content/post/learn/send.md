@@ -77,6 +77,13 @@ ChangeNowを中継することにより
 STEPNのあなたのWalletに  
 SOLを送ることができるのです！  
 
+登録も必要ありません。    
+すぐ使えます。  
+
+すぐ使いたい方は下記のリンクをクリックすると記事に飛びます。
+[ChangeNowの使い方](#how-to-use-ChangeNow)
+
+
 一度、10BUSDで試してみてください!    
 感動すること請け合いです！  
 
@@ -93,6 +100,7 @@ BINANCEのトレードにて20BUSDをSOLにトレードする
 
 差分は、0.0158SOLで送金額の約4.36%です。
 
+今度は1000BUSDで手数料を確認していきます。  
 BINANCEのトレードにて1000BUSDをSOLにトレードする  
 18.15632919SOLです  
 {{< figure src="/images/1000ChangeBefore.png" title="Screenshot" class="center" width="320" height="640" >}}
