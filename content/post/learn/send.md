@@ -68,6 +68,7 @@ ChangeNowはざっくり言うと
 **コインを交換して中継してくれるサービス**
 
 大筋の流れは下記の通りです!
+- BINANCEでBUSDを用意する
 - BINANCEからChangeNowにBUSDを送る
 - ChangeNowからSTEPNのWalletにSOLが入金される
 
@@ -80,9 +81,14 @@ SOLを送ることができるのです！
 登録も必要ありません。    
 すぐ使えます。  
 
+なお、ChangeNowはコイン交換サービスなので、
+SOLをそのまま送ることができません。
+
+そのためSOLを送りたい場合は、  
+ちょっと面倒ですが、BINANCEでSOLからBUSDに変更しておきます。
+
 すぐ使いたい方は下記のリンクをクリックすると記事に飛びます。
 [ChangeNowの使い方](#how-to-use-ChangeNow)
-
 
 一度、10BUSDで試してみてください!    
 感動すること請け合いです！  
