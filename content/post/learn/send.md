@@ -81,16 +81,16 @@ SOLを送ることができるのです！
 登録も必要ありません。    
 すぐ使えます。  
 
-なお、ChangeNowはコイン交換サービスなので、
+なお、ChangeNowはコイン交換サービスなので、  
 SOLをそのまま送ることができません。
 
-そのためSOLを送りたい場合は、  
-ちょっと面倒ですが、BINANCEでSOLからBUSDに変更しておきます。
+そのためSOLを送る場合は、  
+BINANCEでSOLからBUSDに変更しておきます。
 
-すぐ使いたい方は下記のリンクをクリックすると記事に飛びます。
+すぐ使いたい方は下記のリンクをクリックすると記事に飛びます。  
 [ChangeNowの使い方](#how-to-use-ChangeNow)
 
-一度、10BUSDで試してみてください!    
+一度、10BUSDで試してみてください！  
 感動すること請け合いです！  
 
 ## ChangeNowの手数料は高いのか？
@@ -131,6 +131,9 @@ ChangeNowの変換後は確定ではなく
 登録などの煩わしさは必要ないです！  
 
 必要とするSOLになるようにBUSDの値を調整します。   
+なお、ETHのBUSDを絶対選ばないでください。  
+手数料がめっちゃ高いです。    
+必ず**BSCのBUSD**です。
 
 こんな感じ
 {{< figure src="/images/IMG_20220514_225713.jpg" title="Screenshot" class="center" width="320" height="640" >}}
@@ -178,6 +181,15 @@ ChangeNow使えます！
 {{< button >}}
 <a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">ChangeNowページ</a>
 {{< /button >}}
+
+## 感想ください！
+
+この記事を見てChangeNowを使いStepnのウォレットに送金した方!     
+ぜひTwitterでリツイートの上感想を呟いてください!    
+
+本ブログに引用ツィートとして使わせてください。
+そのお礼に先着10名様に0.5GMTをあなたのウォレットに送らせていただきます!
+なお、感想を書き終わったらDMいただけると助かります。
 
 今後も暗号資産についての発信をします！
 
