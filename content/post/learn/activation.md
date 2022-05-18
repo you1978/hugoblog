@@ -25,7 +25,7 @@ STEPNのアプリを入れたけど招待コードが手に入らない!
 - 暗号資産の無限の可能性に賭ける
 - 自らお金を使い失敗も成功もこのブログで共有します 
 
-##　紹介コードを手に入れる３つ方法
+## 紹介コードを手に入れる３つ方法
 
 招待コードを手に入れるには３つの方法があります。  
 - Discordから習得する
@@ -51,8 +51,8 @@ Discordは、ブラウザ版とアプリ版があります。
 
 {{< raw >}}
 <div class="appreach"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/86/a7/e486a7d5-c396-423d-504b-a99f7f14a584/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="Discord - 話そう、チャットしよう、集まろう" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">Discord - 話そう、チャットしよう、集まろう</p><p class="appreach__info"><span class="appreach__developper">Discord, Inc.</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/discord-%25E8%25A9%25B1%25E3%2581%259D%25E3%2581%2586-%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%2597%25E3%2582%2588%25E3%2581%2586-%25E9%259B%2586%25E3%2581%25BE%25E3%2582%258D%25E3%2581%2586/id985746746?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a><a href="https://play.google.com/store/apps/details?id=com.discord" rel="nofollow" class="appreach__gplink"><img src="https://nabettu.github.io/appreach/img/gplay_ja.png"></a></div></div>
+<br/>
 {{</ raw >}}
-
 
 ## Discord内で招待コードを手に入れる方法
 
@@ -94,13 +94,23 @@ DMなどにきたリンクは詐欺の可能性が高いの絶対にやめてお
 ギリギリのところで見つけることができてアクティベーションすることができました!    
 危うくアクティベーションできず途方に暮れるところでした。  
 
+## 私の招待コード
+
+ここまでブログを読んでくれた方に私の招待コードをあげます。  
+
+2022年5月19日（木）　５時25分から公開中です。  
+55892210
+
 ## 招待コードはクイズでもらいましょう!
 
-**結論**　招待コードはクイズをしてもらいましょう！
+**結論**  
+招待コードはクイズをしてもらいましょう！
 
 今後も暗号資産についての発信をします!
 
-ぜひLine公式アカウントへの登録お願いします。
+次回招待コードを手に入れましたら
+私のLINEアカウントでご連絡します。
+Line公式アカウントへの登録お願いします。
 
 {{< raw >}}
 <a href="https://lin.ee/s3Ji7QW"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png" alt="Add friend" height="36" border="0"></a>
