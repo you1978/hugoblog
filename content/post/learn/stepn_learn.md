@@ -19,11 +19,7 @@ STEPN始めようか迷っている人に向けて記事を書きました！
 
 <!--more-->
 
-下記の実績をもつようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})が解説します。
-
-- 仮想通貨・Defi歴 半年
-- 暗号資産の無限の可能性に賭ける
-- 自らお金を使い失敗も成功もこのブログで共有します 
+{{% intro %}}
 
  ## とりあえず始めましょう
 

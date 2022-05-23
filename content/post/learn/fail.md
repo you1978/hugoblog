@@ -8,7 +8,7 @@ thumbnail: "/images/mahdi-bafande-4xVlmURVMHc-unsplash.jpg"
 categories:
   - ""
 tags:
-  - ""
+  - "STEPN"
 ---
 
 2022年5月8日にSTEPNを始めて早1週間  

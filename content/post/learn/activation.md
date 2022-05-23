@@ -19,11 +19,7 @@ STEPNのアプリを入れたけど招待コードが手に入らない!
 
 <!--more-->
 
-下記の実績をもつようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})が解説します。
-
-- 仮想通貨・Defi歴 半年
-- 暗号資産の無限の可能性に賭ける
-- 自らお金を使い失敗も成功もこのブログで共有します 
+{{% intro %}}
 
 ## 紹介コードを手に入れる３つ方法
 
