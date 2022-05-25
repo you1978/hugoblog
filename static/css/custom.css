@@ -461,3 +461,47 @@ body {
   display: block; 
   margin: auto;
 }
+
+.ocbutton{
+  display: none;
+  cursor: pointer;
+}
+.ocbutton + label{
+  cursor: pointer;
+}
+.ocbutton + label:hover{ /* マウスがボタンの上にある時 */
+  border-bottom:1px dotted #888 ;
+}
+.ocbutton + label:before{ /* 非表示時の文字 ※３*/
+  content:"[開く]";
+  color:red;
+}
+.ocbutton:checked + label:before{  /* 表示時の文字 ※３ */
+  content:"[閉じる]"
+}
+.oc_content{
+  display: none;
+}
+#b0:checked ~ #b0_content,
+#b1:checked ~ #b1_content,
+#b2:checked ~ #b2_content,
+#b3:checked ~ #b3_content,
+#b4:checked ~ #b4_content,
+#b5:checked ~ #b5_content,
+#b6:checked ~ #b6_content,
+#b7:checked ~ #b7_content,
+#b8:checked ~ #b8_content,
+#b9:checked ~ #b9_content,
+#b10:checked ~ #b10_content{
+  display:block;
+}
+.oc_content{ /* 表示非表示されるボックスの外観 ※２*/
+  border:1px solid #000;margin:1em;padding:1em;
+}
+.ocbutton ~ p:first-of-type{ /* WordPressのみ（自動で付加されるPを非表示）※１ */
+display: none;
+}
+
+.image_head{
+  margin-left: 30px;
+}

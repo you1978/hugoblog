@@ -53,15 +53,15 @@ BINANCE(バイナンス)の始め方を解説します。
 
 2. 電話またはメールアドレスを登録します。
 
-![image](/images/binance1.png)
+{{< show id="b0" src="/images/binance1.png" title="バイナンス1" >}}
 
 3. 居住国を選択します。
 
-![image](/images/binance2.png)
+{{< show id="b1" src="/images/binance2.png" title="バイナンス2" >}}
 
 4. 個人アカウントの作成を選択する
 
-![image](/images/binance3.png)
+{{< show id="b3" src="/images/binance3.png" title="バイナンス3" >}}
 
 5. メールアドレスをパスワードを記入する。
 
@@ -72,27 +72,27 @@ BINANCE(バイナンス)の始め方を解説します。
 
 記載されているアクティベーションコードを入力してログインしてください。
 
-![image](/images/binance_mail_2.png)
+{{< show id="b4" src="/images/binance_mail_2.png" title="バイナンス4" >}}
 
 7. モバイル番号の確認のためのSMSが送られます。
 
-![image](/images/binance_mobile.png)
+{{< show id="b5" src="/images/binance_mobile.png" title="バイナンス5" >}}
 
 8. 名前を入力します。
 
-![image](/images/binance_private.png)
+{{< show id="b6" src="/images/binance_private.png" title="バイナンス6" >}}
 
 9. 住所を入力します。
 
-![image](/images/binance_private2.png)
+{{< show id="b7" src="/images/binance_private2.png" title="バイナンス7" >}}
 
 10. 本人認証をします。
 
-![image](/images/binance_proof.png)
-  
-![image](/images/binance_proof2.png)
-  
-![image](/images/binance_proof3.png)
+{{< show id="b8" src="/images/binance_proof.png" title="バイナンス7" >}}
+
+{{< show id="b9" src="/images/binance_proof2.png" title="バイナンス7" >}}
+
+{{< show id="b10" src="/images/binance_proof3.png" title="バイナンス7" >}}
 
 11. BINANCE(バイナンス)の口座開設完了です！
 
