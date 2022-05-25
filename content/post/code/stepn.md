@@ -91,15 +91,6 @@ bitbankは、取引量・セキュリティが国内No1の国内暗号通貨取�
 <a href="https://h.accesstrade.net/sp/cc?rk=0100lb4d00lhxt" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">仮想通貨ならビットバンク<img src="https://h.accesstrade.net/sp/rr?rk=0100lb4d00lhxt" width="1" height="1" border="0" alt="" /></a>
 {{< /button >}} 
 
-
-<!-- {{< button >}}
-
-<a href="https://px.a8.net/svt/ejp?a8mat=3HG2VQ+14HO36+0K+1032Z6" rel="nofollow">初心者でも安心のサポート！アフィリエイトを始めるならA8.net</a>
-
-<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=3HG2VQ+14HO36+0K+1032Z6" alt="">
-
-{{< /button >}} -->
-
 ## 暗号資産を買う
 
 オススメの送金コインは、ETH(イーサリアム)です。  
