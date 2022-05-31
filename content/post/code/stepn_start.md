@@ -3,7 +3,7 @@ title: "今Stepnを始まるならどう始めるか？"
 description: ""
 date: "2022-05-23T13:57:36Z"
 toc: true
-draft: false
+draft: true
 share: true
 thumbnail: "/images/denys-nevozhai-z0nVqfrOqWA-unsplash.jpg"
 categories:
