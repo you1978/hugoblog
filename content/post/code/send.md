@@ -113,8 +113,10 @@ GMOコインは、送金先を「宛先リスト」に登録しないと送れ�
 
 GMOコインのモバイルアプリを起動します。  
 XRPを選択します。  
-「預入/送付」を選択します。
 {{< show id="b3" src="/images/ChangeNow4.jpg" title="ChangeNow4" >}}
+
+「預入/送付」を選択します。
+{{< show id="b4" src="/images/ChangeNow5.jpg" title="ChangeNow5" >}}
 
 「新しい宛先を追加する」
 
