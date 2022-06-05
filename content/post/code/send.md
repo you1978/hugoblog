@@ -93,6 +93,15 @@ ChangeNowの中継Walletを下記のリンクから作成します。
 ChangeNowの「Exchange」をクリックします。
 {{< show id="b0" src="/images/ChangeNow1.jpg" title="ChangeNow1" >}}
 
+Recipient Walletに貴方のSTEPNのSolanaネットワークのWalletのアドレスをコピペします。  
+そして、「Next」を押します。
+{{< show id="b1" src="/images/ChangeNow2.jpg" title="ChangeNow2" >}}
+
+
+
+
+
+
 ### GMOコインからChangeNowのWalletに送金する
 
 GMOコインは、送金先を送金リストに登録しないと送れません。  
