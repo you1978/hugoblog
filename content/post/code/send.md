@@ -4,7 +4,7 @@ description: ""
 date: "2022-06-05T05:51:01Z"
 toc: true
 share: true
-draft: true
+draft: false
 thumbnail: "/images/tech-daily-GdRvIi8mWzE-unsplash.jpg"
 categories:
   - ""
@@ -93,19 +93,30 @@ ChangeNowの中継Walletを下記のリンクから作成します。
 ChangeNowの「Exchange」をクリックします。
 {{< show id="b0" src="/images/ChangeNow1.jpg" title="ChangeNow1" >}}
 
-Recipient Walletに貴方のSTEPNのSolanaネットワークのWalletのアドレスをコピペします。  
+Recipient Walletに貴方のSTEPNの  
+SolanaネットワークのWalletのアドレスをコピペします。  
 そして、「Next」を押します。
 {{< show id="b1" src="/images/ChangeNow2.jpg" title="ChangeNow2" >}}
 
+完了するとChangeNowのアドレスが表示されます。
 
+{{< show id="b2" src="/images/ChangeNow3.jpg" title="ChangeNow3" >}}
 
-
-
+このページをキープしておきます。
 
 ### GMOコインからChangeNowのWalletに送金する
 
-GMOコインは、送金先を送金リストに登録しないと送れません。  
+GMOコインは、送金先を「宛先リスト」に登録しないと送れません。  
 まずは、GMOコインにChangeNowの中継Walletを登録しましょう。
+
+先ほどのアドレスを「送付先リスト」に登録します。  
+
+GMOコインのモバイルアプリを起動します。  
+XRPを選択します。  
+「預入/送付」を選択します。
+{{< show id="b3" src="/images/ChangeNow4.jpg" title="ChangeNow4" >}}
+
+「新しい宛先を追加する」
 
 送金リストが登録が終わったら、  
 GMOコインからChangeNowのWalletのアドレスにリップル(XRP)を送ります。
@@ -116,5 +127,5 @@ STEPNのソラナ(Solana)ネットワークのWalletにSolanaが届きます。
 
 ## 最後に
 
-{{% end %}} 
+{{< end >}} 
 
