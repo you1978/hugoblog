@@ -130,7 +130,7 @@ ChangeNowの変換後は確定ではなく
 下記のURLよりChangeNowのホームページにアクセスします。
 
 {{< button >}}
-<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">ChangeNowページ</a>
+<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=500&from=busdbsc&to=sol" target="_blank">ChangeNowページ</a>
 {{< /button >}}
 
 登録などの煩わしさは必要ないです！  
