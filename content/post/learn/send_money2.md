@@ -4,6 +4,7 @@ description: ""
 date: "2022-06-05T05:51:01Z"
 toc: true
 share: true
+draft: true
 thumbnail: "/images/tech-daily-GdRvIi8mWzE-unsplash.jpg"
 categories:
   - ""
@@ -16,7 +17,7 @@ STEPNを始めるのにバイナンスやbyBitなどの
 
 そんな人のために記事を書きました。
 
-結露としては、**必要ない**です!
+結論としては、**必要ない**です!
 
 <!--more-->
 
