@@ -11,7 +11,27 @@ tags:
   - "STEPN"
 ---
 
+STEPNを始めるのにバイナンスやbyBitなどの  
+海外取引所に口座を開設するのは手間だな。。。  
+
+そんな人のために記事を書きました。
+
+結露としては、**必要ない**です!
+
+<!--more-->
+
+{{% intro %}} 
+
+具体的なやり方だけ教えてほしいと言う方は下記のリンクをクリックしてください。
+
+## 問題
 
 
-https://changenow.io?link_id=f7a43f719a3c6e&amount=500&from=xrp
+## 回避するやり方
+
+https://changenow.io?link_id=f7a43f719a3c6e&amount=500&from=xrp&to=sol
+
+## 最後に
+
+{{% end %}} 
 
