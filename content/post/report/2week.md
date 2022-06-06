@@ -1,5 +1,5 @@
 ---
-title: "STEPN2週目の報告"
+title: "STEPN2週目の報告（破滅編）"
 description: ""
 date: "2022-05-14T20:29:24Z"
 toc: true
