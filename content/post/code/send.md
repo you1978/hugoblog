@@ -118,11 +118,31 @@ XRPを選択します。
 「預入/送付」を選択します。
 {{< show id="b4" src="/images/ChangeNow5.jpg" title="ChangeNow5" >}}
 
-「新しい宛先を追加する」
+「新しい宛先を追加する」を選択します。
 
+私は下の選択肢を選択しました。
+「GMOコイン以外」
+「取引所・サービス」
+「ご本人さま」
+「宛先情報の登録画面へ」
 
-送金リストが登録が終わったら、  
-GMOコインからChangeNowのWalletのアドレスにリップル(XRP)を送ります。
+宛先名称(ニックネーム）  
+  ChangeNow  
+「リップルアドレス」にChangeNowのTo This addressを入力してください。  
+「宛先タグ」にChangeNowのDestination tagを入力してください。
+　{{< show id="b5" src="/images/ChangeNow3.jpg" title="ChangeNow3" >}}
+
+送金リストが登録が終わると確認メールが送られます。  
+確認メールにて、URLをクリックすることにより登録が完了します。
+
+GMOコインからChangeNowのWalletのアドレスに  
+指定のリップル(XRP)を送ります。
+
+入金待ちの状態
+{{< show id="b6" src="/images/status1.jpg" title="status1" >}}
+
+入金が終わり交換及び送金が行われている状態
+{{< show id="b7" src="/images/status2.jpg" title="status2" >}}
 
 ### STEPNのWalletにSolanaが届く
 
