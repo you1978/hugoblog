@@ -1,6 +1,6 @@
 
 baseurl = "https://anyplace2030.work/"
-title = "楽しくテック投機をするサイト"
+title = "楽しくWeb3.0のテック投機をするサイト"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
