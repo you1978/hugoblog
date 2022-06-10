@@ -86,7 +86,7 @@ ChangeNowの画面で入金を待ちます。
 ChangeNow使えます！
 
 {{< button >}}
-<a href=https://changenow.io/ja?link_id=f7a43f719a1ca8&amount=1&from=bnbbsc&to=sol" target="_blank">ChangeNowページ</a>
+<a href="https://changenow.io/ja?link_id=f7a43f719a1ca8&amount=1&from=bnbbsc&to=sol" target="_blank">ChangeNowページ</a>
 {{< /button >}}
 
 ## 感想ください！
