@@ -45,12 +45,12 @@ BSCチェーンからSolanaチェーンに送金はできません。
 必要とするSOLになるようにBNBの値を調整します。   
 
 こんな感じ
-{{< figure src="/images/IMG_20220514_225713.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/BNB2SOL1.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 **交換**をクリックします。
 
 交換を押すと下記のような画面になります。
-{{< figure src="/images/1652536873830.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/BNB2SOL2.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 「**Recipient Wallet**」には、  
 あなたのSTEPNのWalletのアドレスをコピー＆ペーストします。 
@@ -59,11 +59,11 @@ BSCチェーンからSolanaチェーンに送金はできません。
 
 ChangeNowアドレスが表示されます。 
 
-{{< figure src="/images/IMG_20220514_230359.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/BNB2SOL3.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 **Confirm**を押してください!  
 
-{{< figure src="/images/IMG_20220514_231202.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/BNB2SOL4.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 BSCのWalletから上記のアドレスにBNBを送ります。
 
