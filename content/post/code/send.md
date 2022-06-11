@@ -25,7 +25,7 @@ tags:
 
 bitbankの口座でもほぼ同じようにすることが可能です。  
 
-bitbankやGMOコイン口座だけでSTEPNに参画する方法の記事か下記です。
+bitbankの口座開設方法の記事は下記の通りです。
 {{< link src="post/code/bitbank" title="bitbankの口座開設方法">}}
 
 ## 国内取引所だけでSTEPNをやる方法
