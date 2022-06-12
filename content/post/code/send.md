@@ -1,5 +1,5 @@
 ---
-title: "GMOコイン口座だけでSTEPNに参画する方法"
+title: "GMOコイン口座だけでSTEPNのWalletに送金する方法"
 description: ""
 date: "2022-06-05T05:51:01Z"
 toc: true
@@ -12,8 +12,8 @@ tags:
   - "STEPN"
 ---
 
-バイナンスやBybitのような海外取引所の  
-口座を持たずにSTEPNを始めたい！  
+バイナンスやBybitのような
+海外取引所の口座を持たずにSTEPNを始めたい！  
  
 そんな人のために記事を書きました。
 
@@ -23,12 +23,12 @@ tags:
 
 {{% intro %}} 
 
-bitbankの口座でもほぼ同じようにすることが可能です。  
+他の国内取引所例えばbitbankでもほぼ同じようにすることが可能です。  
 
-bitbankの口座開設方法の記事は下記の通りです。
+bitbankの口座開設方法の記事は下記の通りです。  
 {{< link src="post/code/bitbank" title="bitbankの口座開設方法">}}
 
-## 国内取引所だけでSTEPNをやる方法
+## 国内取引所からSTEPNのWalletに送金する方法
 
 結論としては下記の２つの方法です。
 1. 国内で唯一ソラナ(Solana)を購入できる取引所Liquidを使う

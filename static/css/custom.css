@@ -492,7 +492,17 @@ body {
 #b7:checked ~ #b7_content,
 #b8:checked ~ #b8_content,
 #b9:checked ~ #b9_content,
-#b10:checked ~ #b10_content{
+#b10:checked ~ #b10_content,
+#b11:checked ~ #b11_content,
+#b12:checked ~ #b12_content,
+#b13:checked ~ #b13_content,
+#b14:checked ~ #b14_content,
+#b15:checked ~ #b15_content,
+#b16:checked ~ #b16_content,
+#b17:checked ~ #b17_content,
+#b18:checked ~ #b18_content,
+#b19:checked ~ #b19_content,
+#b20:checked ~ #b20_content{
   display:block;
 }
 .oc_content{ /* 表示非表示されるボックスの外観 ※２*/
