@@ -19,6 +19,14 @@ tags:
 
 {{% intro %}} 
 
+GMOコインからSTENのWalletに送金する方法はこちらを参照してください。
+{{< link src="post/code/send" title="GMOコイン口座だけでSTEPNのWalletに送金する方法">}}
+
+GMOコイではなく国内の他の取引所でも同様のことは可能です。
+
+bitbankの口座開設方法の記事は下記の通りです。  
+{{< link src="post/code/bitbank" title="bitbankの口座開設方法">}}
+
 ## STEPNのWalletから国内取引所に送金する方法
 
 結論としては下記の２つの方法です。
