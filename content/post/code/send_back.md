@@ -78,7 +78,7 @@ ChangeNowは、暗号資産（仮想通貨）を交換してWalletに送金し�
 まずは10XRPなどの少額で練習してください！
 
 {{< button >}}
-<a href="https://changenow.io/ja?link_id=f7a43f719a3c6e&amount=0.5&from=sol&to=xrp" target="_blank">ソラナ(Solona)をリップル(XRP)に変換する</a>
+<a href="https://changenow.io/ja?link_id=4d21dee7027b9d&amount=0.5&from=sol&to=xrp" target="_blank">ソラナ(Solona)をリップル(XRP)に変換する</a>
 {{< /button >}}
 
 ## 送付先アドレスを確認します。
@@ -107,7 +107,7 @@ ChangeNowの中継Walletを作成します
 ChangeNowの中継Walletを下記のリンクから作成します。
 
 {{< button >}}
-<a href="https://changenow.io/ja?link_id=f7a43f719a3c6e&amount=0.5&from=sol&to=xrp" target="_blank">ソラナ(Solona)をリップル(XRP)に変換する</a>
+<a href="https://changenow.io/ja?link_id=4d21dee7027b9d&amount=0.5&from=sol&to=xrp" target="_blank">ソラナ(Solona)をリップル(XRP)に変換する</a>
 {{< /button >}}
 
 ChangeNowの「Exchange」をクリックします。

@@ -54,7 +54,7 @@ ChangeNowのWalletに送金した瞬間に
 別のコインに交換してSTEPNのWalletに送金してくれます。
 
 {{< button >}}
-<a href="https://changenow.io?link_id=f7a43f719a3c6e&amount=450&from=xrp&to=sol" target="_blank">リップル(XRP)をソラナ(Solona)に変換する</a>
+<a href="https://changenow.io?link_id=4d21dee7027b9d&amount=450&from=xrp&to=sol" target="_blank">リップル(XRP)をソラナ(Solona)に変換する</a>
 {{< /button >}}
 
 ## 具体的なやり方
@@ -91,7 +91,7 @@ GMOにリップル(XRP)が準備できました。
 ChangeNowの中継Walletを下記のリンクから作成します。
 
 {{< button >}}
-<a href="https://changenow.io?link_id=f7a43f719a3c6e&amount=450&from=xrp&to=sol" target="_blank">リップル(XRP)をソラナ(Solona)に変換する</a>
+<a href="https://changenow.io?link_id=4d21dee7027b9d&amount=450&from=xrp&to=sol" target="_blank">リップル(XRP)をソラナ(Solona)に変換する</a>
 {{< /button >}}
 
 ChangeNowの「Exchange」をクリックします。
