@@ -18,7 +18,7 @@ STEPNの運用実績を報告します！
 STEPNの始め方を知りたい方は下記の記事を参照してください。
 {{< link src="post/code/stepn" title="STEPNの始め方">}}
 
-投資額 31946円(5.8 SOL)
+投資額 31,946円(5.8 SOL)
 
 - SolanaチェーンのCommon Jogger１足
 
