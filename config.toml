@@ -1,6 +1,6 @@
 
 baseurl = "https://anyplace2030.work/"
-title = "楽しくWeb3.0のテック投機をするサイト"
+title = "STEPNの日々"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -9,12 +9,12 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 
 [Author]
   name = "よーへい"  
-  bio = "投機で大損した経験から立ち直り楽しくテック投機をするサイトを運営。福岡を在住。サラリーマンリモートワーカー。11歳の女の子の父親。現在STEPNを検証中！"
+  bio = "投機で大損した経験から立ち直り楽しくSTEPをするサイトを運営。福岡を在住。サラリーマンリモートワーカー。11歳の女の子の父親。現在STEPNを検証中！"
   avatar = "images/author.jpg"
 
 [Params]
   subtitle = "黄金の未来の探し方" # Subtitle of your site
-  description = "福岡を拠点にしたリモートワークプログラマーサラリーマンが安全にテック投機をするサイト！" # Description of your site
+  description = "福岡を拠点にしたリモートワークプログラマーサラリーマンが安全にSTEPNをするサイト！" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = true # Show "Read more" button in list if true
