@@ -1,6 +1,6 @@
 
 baseurl = "https://anyplace2030.work/"
-title = "STEPNの日々"
+title = "楽しくSTEPNをする日々"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -69,21 +69,21 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
 
    [[menu.main]]
     identifier = "code"
-    name = "暗号資産を始める"
+    name = "STEPNを始める"
     title = "blog section"
     url = "/post/code"
     weight = -100
 
     [[menu.main]]
     identifier = "earn"
-    name = "暗号資産で稼ぐ"
+    name = "STEPNで稼ぐ"
     title = "blog section"
     url = "/post/earn"
     weight = -90
 
     [[menu.main]]
     identifier = "learn"
-    name = "暗号資産を学ぶ"
+    name = "STEPNを学ぶ"
     title = "blog section"
     url = "/post/learn"
     weight = -80
