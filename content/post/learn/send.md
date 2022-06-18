@@ -12,15 +12,14 @@ tags:
 ---
 
 バイナンスからSTEPNのWalletに  
-SOLを送ろうとしても  
-混雑して送れない！！
-
-もちろんBNBでも同じことができます！
+SOLを送ろうとしても混雑して送れない！！
 
 シューズが安いのに買えてない！   
 ミント(MINT)をしたいのにGMTが送れない！  
 
 そんなあなたのために記事を書きます。
+
+この手法は、BNBチェーンでも使えます！
 
 <!--more-->
 
@@ -28,84 +27,70 @@ SOLを送ろうとしても
 
 ## 結論
 
-結論としては、バイナンスやByBitから送らずに
-ChangeNowを使いましょう！
+結論は、バイナンスやByBitから送らずに
+**ChangeNow**を使いましょう！
 
-具体的なやり方だけ教えてほしいと言う方は下記のリンクをクリックしてください。
-[ChangeNowの使い方](#how-to-use-ChangeNow)
-
-## 手数料は?
-
-
-
-
+具体的なやり方は
+[こちら](#how-to-use-ChangeNow)
 
 ## 混雑して送れない！
 
-金額にはバイナンスから  
-Solanaで送金するのが一番安いです。  
-
-でも送れない。そんな時の手段です。
-
-安いスニーカーを見つけいざ買おう！  
+安いスニーカーを見つけ、いざ買おう！  
 
 そして、バイナンスにログインして自分のアドレスを入れると、、、  
 
 下記の画面。。。
-{{< figure src="/images/1652497263066.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/1652497263066.jpg" class="center" width="320" height="640" >}}
 
 なんじゃ、いつスニーカー買えるんじゃ！！  
 
 こっちは、早くスニーカーを買って稼ぎ始めたいんじゃ！！  
 
-そう言う人に朗報です！  
+そんな人への朗報です！  
 
 今回教える方法を使えば、  
-30分程度でSPTENのWalletにSOLを送ることができます！  
-  
-多くの人が入る前にスニーカーを買うことができます!  
+30分程度でSPTENのWalletにSOLもしくはBNBを送ることができます！  
 
 ## 大筋の流れ
 
+<!-- 
 この記事を見た人、、、、  
 本当にラッキーです。  
   
-まだあまり知られてない方法でSOLを送れます！  
+SOLもしくはBNBを混雑なしで送れます！   -->
   
-BINACEからSTEPNのWalletに送ろうとすると、、、混雑。。
+<!-- BINACEからSTEPNのWalletに送ろうとすると、、、混雑。。
   
 それなら別のルートで送ればいいんじゃないか？  
 
-そんな時に思いつたのは**ChangeNow**!!!  
+そんな時に思いつたのは**ChangeNow**!!!   -->
 
 ChangeNowはざっくり言うと  
 **コインを交換して中継してくれるサービス**
 
 大筋の流れは下記の通りです!
-- BINANCEでBUSDを用意する
-- BINANCEからChangeNowにBUSDを送る
-- ChangeNowからSTEPNのWalletにSOLが入金される
-{ .list3 .flow}
 
-そうです!    
-  
+1. BINANCEでBUSDを用意する
+2. BINANCEからChangeNowにBUSDを送る
+3. ChangeNowからSTEPNのWalletにSOLが入金される
+{ .flow }
+   
 ChangeNowを中継することにより  
+バイナンスの詰まりを避けて  
 STEPNのあなたのWalletに  
-SOLを送ることができるのです！  
+SOLもしくはBNBを送ることができるのです！  
 
 登録も必要ありません。    
 すぐ使えます。  
 
-なお、ChangeNowはコイン交換サービスなので、  
+しかし、ChangeNowはコイン交換サービスなので、  
 SOLをそのまま送ることができません。
 
-そのためSOLを送る場合は、  
-BINANCEでSOLからBUSDに変更しておきます。
+BNBもしくはSOLを送る場合は、  
+BINANCEでSOLからBUSDに変更します。
 
-すぐ使いたい方は下記のリンクをクリックすると記事に飛びます。  
-[ChangeNowの使い方](#how-to-use-ChangeNow)
-
-一度、10BUSDで試してみてください！  
+最初は、少額で試してください。  
+例えば、10BUSDほどです。  
 感動すること請け合いです！  
 
 ## twitterでの反応は？
@@ -113,6 +98,8 @@ BINANCEでSOLからBUSDに変更しておきます。
 {{<tweet 1527202563086757888>}}
 
 ## ChangeNowの手数料は高いのか？
+
+ChangeNowの手数料は、およそ1.65%です。
 
 2022年5月16日時点  
 BINANCEのトレードにて20BUSDをSOLにトレードする  
@@ -156,6 +143,8 @@ ChangeNowの変換後は確定ではなく
 
 こんな感じ
 {{< figure src="/images/IMG_20220514_225713.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+
+<!-- {{< show id="b0" src="/images/IMG_20220514_225713.jpg" title="ChangeNow1" >}} -->
 
 **交換**をクリックします。
 

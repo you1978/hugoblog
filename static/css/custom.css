@@ -518,13 +518,14 @@ display: none;
 
 ul.list3{
   border: solid 2px #ffb03f;
-  padding: 0.5em 1em 0.5em 2.3em;
+  padding: 0.5em 0.5em 0.5em 2.3em;
+  margin: 0 2em 1em 1em;
   position: relative;
   margin-top: 2em;
 }
 ul.list3 li {
   line-height: 1.5;
-  padding: 0.5em 0;
+  padding: 0.2em 0;
   list-style-type: none!important;
 }
 ul.list3 li:before {
@@ -536,7 +537,7 @@ ul.list3 li:before {
   color: #ffb03f; /*アイコン色*/
 }
 
-ul.list3 li:after {
+ul.list3.point li:after {
   /*タブ*/
   background: #ffb03f;
   color: #fff;
@@ -549,7 +550,7 @@ ul.list3 li:after {
   letter-spacing: 0.05em;/*字間*/
 }
 
-ul.list3.flow li:after {
+ul.list3.intro li:after {
   /*タブ*/
   background: #ffb03f;
   color: #fff;
@@ -558,6 +559,47 @@ ul.list3.flow li:after {
   left: -2px;
   bottom: 100%;
   padding: 1px 7px;
-  content: '\f0a7  流れ';/*アイコンコード＋文字*/
+  content: '\f0a7  自己紹介';/*アイコンコード＋文字*/
   letter-spacing: 0.05em;/*字間*/
 }
+
+ol.flow {
+  counter-reset:number; /*数字をリセット*/
+  list-style-type: none!important; /*数字を一旦消す*/
+  padding: 0.3em 0.8em;
+  margin: 0 2em 1em 1em;
+  border: solid 2px #ffb107;
+}
+ol.flow li {
+  /* border-bottom: dashed 1px orange; */
+  position: relative;
+  padding: 0.5em 0.5em 0.5em 30px;
+  line-height: 1.5em;
+}
+ol.flow li:before{
+  /* 以下数字をつける */
+  position: absolute;
+  counter-increment: number;
+  content: counter(number);
+  /*数字のデザイン変える*/
+  display:inline-block;
+  background: #ffb107;
+  color: white;
+  font-family: 'Avenir','Arial Black','Arial',sans-serif;
+  font-weight:bold;
+  font-size: 15px;
+  border-radius: 50%;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  /*以下 上下中央寄せのため*/
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+ol.flow li:last-of-type {
+  border-bottom: none; /*最後のliの線だけ消す*/
+}
+
