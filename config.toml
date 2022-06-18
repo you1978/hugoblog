@@ -26,6 +26,7 @@ googleAnalytics = "UA-11961133-25" # Enable Google Analytics by entering your tr
   post_meta = ["date", "categories"] # Order of post meta information
   toc = true
   customCSS = ["/css/custom.css"]
+  ##highlightColor = "#ffb107" # Override highlight color
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

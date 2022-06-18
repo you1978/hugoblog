@@ -11,8 +11,7 @@ tags:
   - "STEPN"
 ---
 
-バイナンスからSTEPNのWalletに  
-SOLを送ろうとしても混雑して送れない！！
+バイナンスからSTEPNのWalletにSOLを送ろうとしても混雑して送れない！！
 
 シューズが安いのに買えてない！   
 ミント(MINT)をしたいのにGMTが送れない！  
@@ -20,6 +19,7 @@ SOLを送ろうとしても混雑して送れない！！
 そんなあなたのために記事を書きます。
 
 この手法は、BNBチェーンでも使えます！
+あまり知られてない手法なので訪れてくれたあなたはラッキーです！
 
 <!--more-->
 
@@ -27,8 +27,7 @@ SOLを送ろうとしても混雑して送れない！！
 
 ## 結論
 
-結論は、バイナンスやByBitから送らずに
-**ChangeNow**を使いましょう！
+結論は、バイナンスやByBitから送らずに**ChangeNow**を使いましょう！
 
 具体的なやり方は
 [こちら](#how-to-use-ChangeNow)
@@ -48,8 +47,7 @@ SOLを送ろうとしても混雑して送れない！！
 
 そんな人への朗報です！  
 
-今回教える方法を使えば、  
-30分程度でSPTENのWalletにSOLもしくはBNBを送ることができます！  
+今回教える方法を使えば、30分程度でSPTENのWalletにSOLもしくはBNBを送ることができます！  
 
 ## 大筋の流れ
 
@@ -75,16 +73,11 @@ ChangeNowはざっくり言うと
 3. ChangeNowからSTEPNのWalletにSOLが入金される
 { .flow }
    
-ChangeNowを中継することにより  
-バイナンスの詰まりを避けて  
-STEPNのあなたのWalletに  
-SOLもしくはBNBを送ることができるのです！  
+ChangeNowを中継することによりバイナンスの詰まりを避けてSTEPNのあなたのWalletにSOLもしくはBNBを送ることができるのです！  
 
-登録も必要ありません。    
-すぐ使えます。  
+登録も必要ありません。すぐ使えます。    
 
-しかし、ChangeNowはコイン交換サービスなので、  
-SOLをそのまま送ることができません。
+しかし、ChangeNowはコイン交換サービスなので、SOLをそのまま送ることができません。
 
 BNBもしくはSOLを送る場合は、  
 BINANCEでSOLからBUSDに変更します。
@@ -99,32 +92,31 @@ BINANCEでSOLからBUSDに変更します。
 
 ## ChangeNowの手数料は高いのか？
 
-ChangeNowの手数料は、およそ1.65%です。
+<!-- ChangeNowの手数料は、およそ1.65%です。
 
 2022年5月16日時点  
-BINANCEのトレードにて20BUSDをSOLにトレードする  
-0.36156287SOLです。
+BINANCEのトレードにて20BUSDをSOLにトレードします。0.36156287SOLです。
 
-{{< figure src="/images/20ChangeBefore.png" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/20ChangeBefore.png" class="center" width="320" height="640" >}}
 
 一方、ChangeNowでは、0.3457705SOLです。
-{{< figure src="/images/20ChangeAfter.png" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/20ChangeAfter.png" class="center" width="320" height="640" >}}
 
 差分は、0.0158SOLで送金額の約4.36%です。
 
 今度は1000BUSDで手数料を確認していきます。  
 BINANCEのトレードにて1000BUSDをSOLにトレードする  
 18.15632919SOLです  
-{{< figure src="/images/1000ChangeBefore.png" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/1000ChangeBefore.png" class="center" width="320" height="640" >}}
 
 一方、ChangeNowでは、17.8946723　SOLでした。 
-{{< figure src="/images/1000ChangeAfter.png" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/1000ChangeAfter.png" class="center" width="320" height="640" >}}
 
 差分は、0.26165689で送金額の約1.44%です。
 
 ChangeNowの変換後は確定ではなく  
 表示された値より少し良いレートでもらえることが多いです！  
-実際にはもう少し抑えられると思います。 
+実際にはもう少し抑えられると思います。  -->
 
 ## ChangeNowの使い方 {#how-to-use-ChangeNow}
 
@@ -137,19 +129,18 @@ ChangeNowの変換後は確定ではなく
 登録などの煩わしさは必要ないです！  
 
 必要とするSOLになるようにBUSDの値を調整します。   
-なお、ETHのBUSDを絶対選ばないでください。  
-手数料がめっちゃ高いです。    
-必ず**BSCのBUSD**です。
+なお、ETHのBUSDを絶対選ばないでください。手数料がめっちゃ高いです。    
+必ず**BSCのBUSD**を選びましょう！
 
 こんな感じ
-{{< figure src="/images/IMG_20220514_225713.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/IMG_20220514_225713.jpg" class="center" width="320" height="640" >}}
 
 <!-- {{< show id="b0" src="/images/IMG_20220514_225713.jpg" title="ChangeNow1" >}} -->
 
 **交換**をクリックします。
 
 交換を押すと下記のような画面になります。
-{{< figure src="/images/1652536873830.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/1652536873830.jpg" class="center" width="320" height="640" >}}
 
 「**Recipient Wallet**」には、  
 あなたのSTEPNのWalletのアドレスをコピー＆ペーストします。 
@@ -158,11 +149,11 @@ ChangeNowの変換後は確定ではなく
 
 ChangeNowアドレスが表示されます。 
 
-{{< figure src="/images/IMG_20220514_230359.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/IMG_20220514_230359.jpg" class="center" width="320" height="640" >}}
 
 **Confirm**を押してください!  
 
-{{< figure src="/images/IMG_20220514_231202.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="/images/IMG_20220514_231202.jpg" class="center" width="320" height="640" >}}
 
 バイナンスから上記のアドレスにBUSDを送ります。
 
@@ -196,8 +187,7 @@ ChangeNow使えます！
 ぜひTwitterでリツイートの上感想を呟いてください！    
 
 ぜひ、本ブログに引用ツィートとして使わせてください。  
-そのお礼として先着10名様に**1GMT**を  
-あなたのウォレットに送らせていただきます！  
+そのお礼として先着10名様に**1GMT**をあなたのウォレットに送らせていただきます！  
 
 なお、感想を書き終わったらDMいただけると助かります。  
 
