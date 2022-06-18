@@ -1,8 +1,8 @@
 ---
-title: "[STEPN] 混雑を避けWalletにSOLを送る方法"
+title: "混雑を避けWalletにSOLを送る方法"
 description: ""
 date: "2022-06-17T14:13:44Z"
-toc: true
+toc: false
 share: true
 thumbnail: "/images/austin-distel-EMPZ7yRZoGw-unsplash.jpg"
 categories:
@@ -79,11 +79,11 @@ ChangeNowを中継することによりバイナンスの詰まりを避けてST
 
 しかし、ChangeNowはコイン交換サービスなので、SOLをそのまま送ることができません。
 
-BNBもしくはSOLを送る場合は、  
-BINANCE(バイナンス)でSOLからBUSDに変更します。
+BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSDに変更します。
 
-最初は、少額で試してください。  
+最初は、少額で試してください。
 例えば、10BUSDほどです。  
+
 感動すること請け合いです！  
 
 ## twitterでの反応は？
