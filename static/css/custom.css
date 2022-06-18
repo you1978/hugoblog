@@ -530,7 +530,7 @@ ul.list3 li {
 ul.list3 li:before {
   /*リストのアイコン*/
   font-family: "Font Awesome 5 Free";
-  content: "\f00c";
+  content: "\f35a";
   position: absolute;
   left : 1em; /*左端からのアイコンまでの距離*/
   color: #ffb03f; /*アイコン色*/
