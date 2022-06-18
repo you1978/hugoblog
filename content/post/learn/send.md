@@ -1,5 +1,5 @@
 ---
-title: "混雑を避けWalletにBNBもしくはOLを送る方法"
+title: "WalletにBNBもしくはSOLを混雑を避けて送る方法"
 description: ""
 date: "2022-06-17T14:13:44Z"
 toc: false
@@ -14,13 +14,13 @@ tags:
 BINANCE(バイナンス)からSTEPNのWalletに暗号資産を送ろうとしても混雑して送れない！！
 
 シューズが安いのに買えてない！   
-ミント(MINT)をしたいのにGMTが送れない！  
+ミント(MINT)をしたいのにGMTが送れない！
 
 そんなあなたのために記事を書きます。
 
-この手法は、もちろんBSCチェーンでも使えます！  
+<!--more-->  
 
-<!--more-->
+この手法は、もちろんBSCチェーンでも使えます！  
 
 {{% intro %}} 
 
@@ -91,8 +91,9 @@ BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSD�
 
 ## ChangeNowの手数料は高いのか？
 
-<!-- ChangeNowの手数料は、およそ1.65%です。
+ChangeNowの手数料は、およそ1.65%です。
 
+<!-- 
 2022年5月16日時点  
 BINANCE(バイナンス)のトレードにて20BUSDをSOLにトレードします。0.36156287SOLです。
 
