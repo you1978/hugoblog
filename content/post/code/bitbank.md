@@ -2,7 +2,7 @@
 title: "Bitbankの開設の仕方"
 description: ""
 date: "2022-05-21T09:55:57Z"
-toc: true
+toc: false
 share: true
 draft: false
 thumbnail: /images/bermix-studio-aX1hN4uNd-I-unsplash.jpg
@@ -76,6 +76,8 @@ bitbankから基本情報を入力します。
 ## bitbankにて本人認証する
 
 身分証を登録して本人認証をします。  
+
+## 取引開始
 
 この後、取引開始できます！
 
