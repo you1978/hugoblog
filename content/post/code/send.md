@@ -37,7 +37,7 @@ bitbankの口座開設方法の記事は下記の通りです。
 Liquid以外の国内暗号資産取引所では、  
 ソラナ(Solana)を扱っておらず、海外の暗号資産取引所を経由させている  
 ケースが多いと思います。  
-BNBネットワークでも同じ方法を使用可能です。
+BSCチェーンでも同じ方法を使用可能です。
 
 しかし、この記事では、2のやり方を紹介しようと思います。  
 私は検証として実施してます。  
@@ -98,7 +98,7 @@ ChangeNowの「Exchange」をクリックします。
 {{< show id="b0" src="/images/ChangeNow1.jpg" title="ChangeNow1" >}}
 
 Recipient Walletに貴方のSTEPNの  
-SolanaネットワークのWalletのアドレスをコピペします。  
+SolanaチェーンのWalletのアドレスをコピペします。  
 そして、「Next」を押します。
 {{< show id="b1" src="/images/ChangeNow2.jpg" title="ChangeNow2" >}}
 
@@ -150,7 +150,7 @@ GMOコインからChangeNowのWalletのアドレスに
 
 ### STEPNのWalletにSolanaが届く
 
-STEPNのソラナ(Solana)ネットワークのWalletにSolanaが届きます。
+STEPNのソラナ(Solana)チェーンのWalletにSolanaが届きます。
 
 ## 最後に
 

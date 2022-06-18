@@ -68,8 +68,8 @@ ChangeNowはざっくり言うと
 
 大筋の流れは下記の通りです!
 
-1. BINANCEでBUSDを用意する
-2. BINANCEからChangeNowにBUSDを送る
+1. BINANCE(バイナンス)でBUSDを用意する
+2. BINANCE(バイナンス)からChangeNowにBUSDを送る
 3. ChangeNowからSTEPNのWalletにSOLが入金される
 { .flow }
    
@@ -80,7 +80,7 @@ ChangeNowを中継することによりバイナンスの詰まりを避けてST
 しかし、ChangeNowはコイン交換サービスなので、SOLをそのまま送ることができません。
 
 BNBもしくはSOLを送る場合は、  
-BINANCEでSOLからBUSDに変更します。
+BINANCE(バイナンス)でSOLからBUSDに変更します。
 
 最初は、少額で試してください。  
 例えば、10BUSDほどです。  
@@ -95,7 +95,7 @@ BINANCEでSOLからBUSDに変更します。
 <!-- ChangeNowの手数料は、およそ1.65%です。
 
 2022年5月16日時点  
-BINANCEのトレードにて20BUSDをSOLにトレードします。0.36156287SOLです。
+BINANCE(バイナンス)のトレードにて20BUSDをSOLにトレードします。0.36156287SOLです。
 
 {{< figure src="/images/20ChangeBefore.png" class="center" width="320" height="640" >}}
 
@@ -105,7 +105,7 @@ BINANCEのトレードにて20BUSDをSOLにトレードします。0.36156287SOL
 差分は、0.0158SOLで送金額の約4.36%です。
 
 今度は1000BUSDで手数料を確認していきます。  
-BINANCEのトレードにて1000BUSDをSOLにトレードする  
+BINANCE(バイナンス)のトレードにて1000BUSDをSOLにトレードする  
 18.15632919SOLです  
 {{< figure src="/images/1000ChangeBefore.png" class="center" width="320" height="640" >}}
 
