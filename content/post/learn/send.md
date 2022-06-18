@@ -87,7 +87,7 @@ BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSD�
 ## ChangeNowの手数料は高いのか？
 
 ChangeNowの手数料は、金額が少ないほど、割高になっています。  
-10BUSDだと5.58%です。1000BUSBだと1.05%になりました。  
+10BUSDだと5.58%です。1000BUSDだと**1.05%**になりました。  
 (2022年6月19日現在)
 
 {{< show id="b0" src="/images/Convert2.png" title="Convert2" >}}
