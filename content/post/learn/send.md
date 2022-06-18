@@ -1,5 +1,5 @@
 ---
-title: "混雑を避けWalletにSOLを送る方法"
+title: "混雑を避けWalletにBNBもしくはOLを送る方法"
 description: ""
 date: "2022-06-17T14:13:44Z"
 toc: false
@@ -11,15 +11,14 @@ tags:
   - "STEPN"
 ---
 
-バイナンスからSTEPNのWalletにSOLを送ろうとしても混雑して送れない！！
+BINANCE(バイナンス)からSTEPNのWalletに暗号資産を送ろうとしても混雑して送れない！！
 
 シューズが安いのに買えてない！   
 ミント(MINT)をしたいのにGMTが送れない！  
 
 そんなあなたのために記事を書きます。
 
-この手法は、BNBチェーンでも使えます！
-あまり知られてない手法なので訪れてくれたあなたはラッキーです！
+この手法は、もちろんBSCチェーンでも使えます！  
 
 <!--more-->
 
@@ -27,7 +26,7 @@ tags:
 
 ## 結論
 
-結論は、バイナンスやByBitから送らずに**ChangeNow**を使いましょう！
+結論は、BINANCE(バイナンス)から直接送らずに**ChangeNow**を使いましょう！
 
 具体的なやり方は
 [こちら](#how-to-use-ChangeNow)
@@ -36,7 +35,7 @@ tags:
 
 安いスニーカーを見つけ、いざ買おう！  
 
-そして、バイナンスにログインして自分のアドレスを入れると、、、  
+そして、BINANCE(バイナンス)にログインして自分のアドレスを入れると、、、  
 
 下記の画面。。。
 {{< figure src="/images/1652497263066.jpg" class="center" width="320" height="640" >}}
@@ -73,7 +72,7 @@ ChangeNowはざっくり言うと
 3. ChangeNowからSTEPNのWalletにSOLが入金される
 { .flow }
    
-ChangeNowを中継することによりバイナンスの詰まりを避けてSTEPNのあなたのWalletにSOLもしくはBNBを送ることができるのです！  
+ChangeNowを中継することによりBINANCE(バイナンス)の詰まりを避けてSTEPNのあなたのWalletにSOLもしくはBNBを送ることができるのです！  
 
 登録も必要ありません。すぐ使えます。    
 
@@ -155,11 +154,11 @@ ChangeNowアドレスが表示されます。
 
 {{< figure src="/images/IMG_20220514_231202.jpg" class="center" width="320" height="640" >}}
 
-バイナンスから上記のアドレスにBUSDを送ります。
+BINANCE(バイナンス)から上記のアドレスにBUSDを送ります。
 
-## バイナンスからBSUDを送る
+## BINANCE(バイナンス)からBSUDを送る
 
-バイナンスからChangeNowにBUSDを送ります。  
+BINANCE(バイナンス)からChangeNowにBUSDを送ります。  
 
 先ほどのChangeNowのアドレスを貼り付けます。
   
