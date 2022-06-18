@@ -4,6 +4,7 @@ description: ""
 date: "2022-05-12T19:17:17Z"
 toc: true
 share: true
+draft: true
 thumbnail: "/images/mahdi-bafande-4xVlmURVMHc-unsplash.jpg"
 categories:
   - ""
@@ -20,11 +21,7 @@ STEPN始めようか迷っている人にも参考になると思います。
 
 <!--more-->
 
-下記の実績をもつようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})が解説します。
-
-- 仮想通貨・Defi歴 半年
-- 暗号資産の無限の可能性に賭ける
-- 自らお金を使い失敗も成功もこのブログで共有します 
+{{% intro %}}
   
 7の失敗は下記の通りです。
 - 投資したお金の評価額が爆下り
@@ -32,8 +29,7 @@ STEPN始めようか迷っている人にも参考になると思います。
 - 暗号資産のアフリエイト審査が通らない
 - 朝早く起きすぎる
 - ミントしたくてしょうがない
-- Solanaの送金をめっちゃ試す
-- ミント2回のスニーカーを勝ってしまった。
+- Solanaの送金に時間を消耗する
 
 すぐにSTEPNを始めたいと言う方は下記のリンクをどうぞ
 
