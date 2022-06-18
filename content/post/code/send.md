@@ -31,8 +31,9 @@ bitbankの口座開設方法の記事は下記の通りです。
 ## 国内取引所からSTEPNのWalletに送金する方法
 
 結論としては下記の２つの方法です。
-1. 国内で唯一ソラナ(Solana)を購入できる取引所Liquidを使う
-2. それ以外の国内取引所とChangeNowを使う
+- 国内で唯一ソラナ(Solana)を購入できる取引所Liquidを使う
+- それ以外の国内取引所とChangeNowを使う
+{ .list3 .point }
 
 Liquid以外の国内暗号資産取引所では、  
 ソラナ(Solana)を扱っておらず、海外の暗号資産取引所を経由させている  
@@ -65,6 +66,7 @@ ChangeNowのWalletに送金した瞬間に
 3. ChangeNowの中継Walletを作成する
 4. GMOコインからChangeNowのWalletに送金する
 5. STEPNのWalletにSolanaが届く
+{ .flow }
 
 ### STEPNで必要なソラナ(Solana)を記録しておく
 

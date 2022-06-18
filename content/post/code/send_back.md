@@ -75,6 +75,7 @@ BINANCE(バイナンス)の口座開設方法の記事は下記の通りです�
 1. ChangeNowで中継用のWalletを準備する
 2. STEPNのWalletからChangeNowの中継用のWalletに送金する。
 3. ChangeNowが自動転送して国内取引所で受け取れる
+{ .flow }
 
 まずは10XRPなどの少額で練習してください！
 

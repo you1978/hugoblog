@@ -1,5 +1,5 @@
 ---
-title: "WalletにBNBもしくはSOLを混雑を避けて送る方法"
+title: "STEPNのWalletにBNBもしくはSOLを混雑を避けて送る方法"
 description: ""
 date: "2022-06-17T14:13:44Z"
 toc: false
@@ -78,12 +78,7 @@ ChangeNowを中継することによりBINANCE(バイナンス)の詰まりを�
 
 しかし、ChangeNowはコイン交換サービスなので、SOLをそのまま送ることができません。
 
-BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSDに変更します。
-
-最初は、少額で試してください。
-例えば、10BUSDほどです。  
-
-感動すること請け合いです！  
+BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSDに変更します。  
 
 ## twitterでの反応は？
 
@@ -91,7 +86,11 @@ BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSD�
 
 ## ChangeNowの手数料は高いのか？
 
-ChangeNowの手数料は、およそ1.65%です。
+ChangeNowの手数料は、金額が少ないほど、割高になっています。  
+10BUSDだと5.58%です。1000BUSBだと1.05%になりました。  
+(2022年6月19日現在)
+
+{{< show id="b0" src="/images/Convert2.png" title="Convert2" >}}
 
 <!-- 
 2022年5月16日時点  
@@ -126,7 +125,7 @@ ChangeNowの変換後は確定ではなく
 <a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=500&from=busdbsc&to=sol" target="_blank">ChangeNowページ</a>
 {{< /button >}}
 
-登録などの煩わしさは必要ないです！  
+登録などの煩わしさはありません！  
 
 必要とするSOLになるようにBUSDの値を調整します。   
 なお、ETHのBUSDを絶対選ばないでください。手数料がめっちゃ高いです。    
