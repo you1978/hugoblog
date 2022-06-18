@@ -1,7 +1,7 @@
 ---
 title: "[STEPN] 混雑を避けWalletにSOLを送る方法"
 description: ""
-date: "2022-05-13T14:13:44Z"
+date: "2022-06-17T14:13:44Z"
 toc: true
 share: true
 thumbnail: "/images/austin-distel-EMPZ7yRZoGw-unsplash.jpg"
@@ -15,6 +15,8 @@ tags:
 SOLを送ろうとしても  
 混雑して送れない！！
 
+もちろんBNBでも同じことができます！
+
 シューズが安いのに買えてない！   
 ミント(MINT)をしたいのにGMTが送れない！  
 
@@ -24,8 +26,19 @@ SOLを送ろうとしても
 
 {{% intro %}} 
 
+## 結論
+
+結論としては、バイナンスやByBitから送らずに
+ChangeNowを使いましょう！
+
 具体的なやり方だけ教えてほしいと言う方は下記のリンクをクリックしてください。
 [ChangeNowの使い方](#how-to-use-ChangeNow)
+
+## 手数料は?
+
+
+
+
 
 ## 混雑して送れない！
 
@@ -72,6 +85,7 @@ ChangeNowはざっくり言うと
 - BINANCEでBUSDを用意する
 - BINANCEからChangeNowにBUSDを送る
 - ChangeNowからSTEPNのWalletにSOLが入金される
+{ .list3 .flow}
 
 そうです!    
   
