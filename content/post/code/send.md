@@ -2,7 +2,7 @@
 title: "GMOコイン口座だけでSTEPNのWalletに送金する方法"
 description: ""
 date: "2022-06-05T05:51:01Z"
-toc: true
+toc: false
 share: true
 draft: false
 thumbnail: "/images/tech-daily-GdRvIi8mWzE-unsplash.jpg"
@@ -40,11 +40,10 @@ Liquid以外の国内暗号資産取引所では、
 ケースが多いと思います。  
 BSCチェーンでも同じ方法を使用可能です。
 
-しかし、この記事では、2のやり方を紹介しようと思います。  
-私は検証として実施してます。  
+しかし、この記事では、2のやり方を紹介します！
 
-今回は私が使用しているGMOコインを例に説明します。  
-別の国内取引所でも使える方法です。  
+今回はGMOコインを例に説明します。  
+別の国内取引所でも使えます。
 
 ## ChangeNowとは？
 

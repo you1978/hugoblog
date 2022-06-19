@@ -1,5 +1,5 @@
 ---
-title: "STEPNのWalletにBNBもしくはSOLを混雑を避けて送る方法"
+title: "STEPNのWalletにストレスなく送金する方法"
 description: ""
 date: "2022-06-17T14:13:44Z"
 toc: false
@@ -72,13 +72,16 @@ ChangeNowはざっくり言うと
 3. ChangeNowからSTEPNのWalletにSOLが入金される
 { .flow }
    
-ChangeNowを中継することによりBINANCE(バイナンス)の詰まりを避けてSTEPNのあなたのWalletにSOLもしくはBNBを送ることができるのです！  
+ChangeNowは、登録する必要がありません。  
+ChangeNowのホームページに行けばいつでも使えます。
+   
+{{< button >}}
+<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=500&from=busdbsc&to=sol" target="_blank">BUSDをSOLに交換するChangeNowのリンク</a>
+{{< /button >}}
 
-登録も必要ありません。すぐ使えます。    
+しかし、ChangeNowでは、SOLをそのまま送ることができません。
 
-しかし、ChangeNowはコイン交換サービスなので、SOLをそのまま送ることができません。
-
-BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSDに変更します。  
+BINANCE(バイナンス)で必要なSOLやBNBに相当するBUSDを準備しておく必要があります。
 
 ## twitterでの反応は？
 
@@ -86,8 +89,8 @@ BNBもしくはSOLを送る場合は、BINANCE(バイナンス)でSOLからBUSD�
 
 ## ChangeNowの手数料は高いのか？
 
-ChangeNowの手数料は、金額が少ないほど、割高になっています。  
-10BUSDだと5.58%です。1000BUSDだと**1.05%**になりました。  
+ChangeNowの手数料は、金額が少ないほど、割高です。  
+10BUSDだと5.58%です。1000BUSDだと **1.05%** になりました。  
 (2022年6月19日現在)
 
 {{< show id="b0" src="/images/Convert2.png" title="Convert2" >}}
@@ -122,7 +125,7 @@ ChangeNowの変換後は確定ではなく
 下記のURLよりChangeNowのホームページにアクセスします。
 
 {{< button >}}
-<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=500&from=busdbsc&to=sol" target="_blank">ChangeNowページ</a>
+<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=500&from=busdbsc&to=sol" target="_blank">BUSDをSOLに交換するChangeNowのリンク</a>
 {{< /button >}}
 
 登録などの煩わしさはありません！  
@@ -177,7 +180,7 @@ ChangeNowの画面で入金を待ちます。
 ChangeNow使えます！
 
 {{< button >}}
-<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">ChangeNowページ</a>
+<a href="https://changenow.io/ja?link_id=f7a43f719ac794&amount=1000&from=busdbsc&to=sol">BUSDをSOLに交換するChangeNowのリンク</a>
 {{< /button >}}
 
 ## 感想ください！
@@ -185,18 +188,9 @@ ChangeNow使えます！
 この記事を見てChangeNowを使いStepnのウォレットに送金した**あなた**！     
 ぜひTwitterでリツイートの上感想を呟いてください！    
 
-ぜひ、本ブログに引用ツィートとして使わせてください。  
-そのお礼として先着10名様に**1GMT**をあなたのウォレットに送らせていただきます！  
-
 なお、感想を書き終わったらDMいただけると助かります。  
 
-今後も暗号資産についての発信をします！
-
-ぜひLine公式アカウントへの登録お願いします。
-
-{{< raw >}}
-<a href="https://lin.ee/s3Ji7QW"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png" alt="Add friend" height="36" border="0"></a>
-{{< /raw >}}
+{{< end >}}
 
 
 
