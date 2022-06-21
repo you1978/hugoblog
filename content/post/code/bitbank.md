@@ -29,13 +29,17 @@ Bitbankは取引量・セキュリティで国内No1の暗号資産の取引所�
 - スマホアプリが使いやすい
 - リップル（XRP）を取引所で交換できる
 - マネーフォワードとの連携
-- 特典がある
+- 取引所のメイカー手数料が-0.02%
+- 抽選で2000円もらえる(7月7日まで)
 { .list3 }
 
 海外取引所には、送金手数料が安いリップル(XRP)で送金します。　　
 
 2022年6月7日（火）〜 2022年7月7日（木）11時59分  
 上記の期間、新規口座開設＆ご入金で抽選で2000円がもらえるそうです!
+
+取引所でメイカー手数料の手数料は-0.02%です。  
+これはGMOコインの２倍です。  
 
 {{< button >}}
 <a href="https://h.accesstrade.net/sp/cc?rk=0100lb4d00lhxt" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">仮想通貨ならビットバンク<img src="https://h.accesstrade.net/sp/rr?rk=0100lb4d00lhxt" width="1" height="1" border="0" alt="" /></a>
