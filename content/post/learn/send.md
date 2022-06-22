@@ -3,6 +3,7 @@ title: "STEPNのWalletにストレスなく送金する方法"
 description: ""
 date: "2022-06-17T14:13:44Z"
 toc: false
+draft: true
 share: true
 thumbnail: "/images/austin-distel-EMPZ7yRZoGw-unsplash.jpg"
 categories:
