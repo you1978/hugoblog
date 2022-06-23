@@ -1,5 +1,5 @@
 ---
-title: "GMOコイン口座だけでSTEPNのWalletに送金する方法"
+title: "GMOコイン口座からSTEPNのウォレットに送金する方法"
 description: ""
 date: "2022-06-05T05:51:01Z"
 toc: false
