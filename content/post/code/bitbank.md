@@ -59,7 +59,7 @@ Bitbankは取引量・セキュリティで国内No1の暗号資産の取引所�
 出金については、私ならbitbankからGMOコインにXRP(リップル)を送ります。    
 そして、GMOコインで日本円に出金します。
 
-## bitbankの新規登録
+## bitbankに新規登録する
 
 {{< button >}}
 <a href="https://h.accesstrade.net/sp/cc?rk=0100lb4d00lhxt" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">仮想通貨ならビットバンク<img src="https://h.accesstrade.net/sp/rr?rk=0100lb4d00lhxt" width="1" height="1" border="0" alt="" /></a>
@@ -77,7 +77,7 @@ bitbankから新規登録画面を入力します。
 bitbankから基本情報を入力します。
 {{< show id="b5" src="/images/bitbank5.jpg" title="bitbank5" >}}
 
-## bitbankにて本人認証する
+## 本人認証する
 
 身分証を登録して本人認証をします。  
 
