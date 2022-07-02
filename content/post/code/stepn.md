@@ -4,7 +4,7 @@ description: ""
 date: "2022-05-21T05:20:12Z"
 toc: true
 share: true
-draft: true
+draft: false
 thumbnail: "/images/guillaume-issaly-8TDwh96Vjf4-unsplash.jpg"
 categories:
   - ""
@@ -75,7 +75,7 @@ SOLは、海外の暗号資産の取引所ではしか手に入れられませ�
 
 そして、円から送金の用の暗号資産に変更するためには国内の暗号資産取引所の口座開設が必要になります。
 
-現在のところおよそ13万円の資金が必要になります。  
+現在のところおよそ1万円の資金が必要になります。  
 資金がない方は、セルフバックをして資金を稼ぎましょう！  
 
 {{< link src="post/earn/selfback" title="セルフバックで稼ぐ">}}

@@ -31,10 +31,6 @@ STEPNを始めるまでの全体のフローは下記の通り！！
 
 [既に開設している](#haveForeiegnExchange) [いいえ]({{< ref "/post/code/bitbank" >}})
 
-## 海外取引所の口座を開設済み? {#haveForeiegnExchange}
-
-[既に持っている](#StepnInstall) [いいえ]({{< ref "/post/code/binance" >}})
-
 ## STEPNアプリをインストール済み？ {#StepnInstall}
 
 [はい](#Invited) No (この章を読んでください)
@@ -48,7 +44,6 @@ iPhoneでもAndroidでもインストール可能です!
 <br />
 {{< /raw >}}
 
-
 ## 招待コードを持っている {#Invited}
 
 [はい](#haveJapanExchange) [いいえ]({{< ref "/post/learn/activation" >}})
@@ -57,11 +52,7 @@ iPhoneでもAndroidでもインストール可能です!
 
 国内取引所からSTEPNウォレットに送金
 
-##　海外取引所口座からSTEPNに送金する {#ForiegnToSTEN}
 
-Yes No
-
-## STEPNに送金する
 
 
 

@@ -1,6 +1,6 @@
 
 baseurl = "https://anyplace2030.work/"
-title = "STEPNの日々"
+title = "STEPNの始め方"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
