@@ -8,7 +8,7 @@ thumbnail: "/images/braden-collum-9HI8UJMSdZA-unsplash.jpg"
 categories:
   - ""
 tags:
-  - ""
+  - "STEPN"
 ---
 
 こんにちは、よーへいです。
