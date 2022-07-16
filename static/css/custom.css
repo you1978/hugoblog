@@ -605,12 +605,12 @@ ol.flow li:last-of-type {
 }
 
 h2 {
-  padding: 1rem 2rem;
+  padding: 1rem 0.5rem;
+  margin: 2rem 0;
   border-bottom: 3px solid #e22d30;
   background: #f4f4f4;
 }
 
 p {
-  line-height: 1.8em;
+  margin: 2rem 0;
 }
-

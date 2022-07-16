@@ -1,0 +1,197 @@
+baseURL: https://anyplace2030.work/
+languageCode: ja
+# theme: hugo-theme-salt
+theme: salt
+title: STEPNの始め方！
+copyright: © 2022 Yohei Tanaka
+author:
+  name: Yohei Tanaka
+  email: you1978@hotmail.com
+  #url: https://anyplace2030.work/
+googleAnalytics: UA-11961133-25
+disqusShortname: "@disqus_slJlEz7BGK"
+
+taxonomies:
+  category: categories
+  tag: tags
+  pickup: pickups
+  archive: archives
+
+disablePathToLower: true
+hasCJKLanguage: true
+summaryLength: 200
+paginate: 10
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+
+related:
+  includeNewer: true
+  indices:
+    - name: keywords
+      weight: 100
+    - name: tags
+      weight: 90
+    - name: date
+      weight: 10
+  threshold: 80
+  toLower: false
+
+module:
+  mounts:
+    - source: static
+      target: static
+    - source: node_modules/@fortawesome/fontawesome-free/css/all.min.css
+      target: static/css/vendor/@fortawesome/fontawesome-free/css/all.min.css
+    - source: node_modules/@fortawesome/fontawesome-free/webfonts
+      target: static/css/vendor/@fortawesome/fontawesome-free/webfonts
+    - source: node_modules/github-markdown-css/github-markdown.css
+      target: static/css/vendor/github-markdown-css/github-markdown.css
+    # 検索に必要
+    - source: node_modules/lunr/lunr.min.js
+      target: static/js/vendor/lunr/lunr.min.js
+    - source: node_modules/lunr-languages/lunr.stemmer.support.js
+      target: static/js/vendor/lunr-languages/lunr.stemmer.support.js
+    - source: node_modules/lunr-languages/tinyseg.js
+      target: static/js/vendor/lunr-languages/tinyseg.js
+    - source: node_modules/lunr-languages/lunr.ja.js
+      target: static/js/vendor/lunr-languages/lunr.ja.js
+
+params:
+  description: このサイトはHugo用ブログテーマ「Salt」のサンプルサイトです
+  icon: image/icon.png
+  images:
+    - image/og_large.png
+  notFoundImage: image/404.png
+  dafaultNoimage: image/default_noimage.png
+  newArticleLimit: 5
+  rankingArticleLimit: 5
+  relatedArticleLimit: 2
+  imageQuality: 75
+  customCSS : ["/css/custom.css"]
+  profile:
+    name: Yohei Tanaka
+    description: プロフィール
+    icon: image/profile_icon.png
+    link:
+      twitter: fireCodeCoin
+      # instagram: instagram
+      # facebook: https://www.facebook.com/facebook
+      # youtube: https://www.youtube.com/user/YouTubeJapan
+      # github: github
+      # qiita: qiita
+      # zenn: zenn
+      email: you1978@hotmail.com
+      other: https://anyplace2030.work/
+  publisher:
+    type: Organization
+    name: my_organization
+    url: https://example.com/publisher
+    image: image/icon.png
+    description: organization_description
+    sameAs:
+      - https://example.com/sameAs
+  twitterTimeline: fireCodeCoin
+
+#  [[menu.main]]
+#     identifier = "aboutme"
+#     name = "自己紹介"
+#     title = "blog section"
+#     url = "/pages/about/"
+#     weight = 0
+
+#    [[menu.main]]
+#     identifier = "code"
+#     name = "STEPNを始める"
+#     title = "blog section"
+#     url = "/post/code"
+#     weight = -100
+
+#     [[menu.main]]
+#     identifier = "earn"
+#     name = "STEPNで稼ぐ"
+#     title = "blog section"
+#     url = "/post/earn"
+#     weight = -90
+
+#     [[menu.main]]
+#     identifier = "learn"
+#     name = "STEPNを学ぶ"
+#     title = "blog section"
+#     url = "/post/learn"
+#     weight = -80
+
+#     [[menu.main]]
+#     identifier = "check"
+#     name = "収支を見る"
+#     title = "blog section"
+#     url = "/post/report"
+#     weight = -70
+
+menu:
+  header:
+    - name: STEPNを始める
+      url: /post/code
+      weight: -100
+    - name: STEPNで稼ぐ
+      url: /post/earn
+      weight: -90
+    - name: STEPNを学ぶ
+      url: /post/learn
+      weight: -80
+    - name: 収支を見る
+      url: /post/report
+      weight: -70
+  sidebar:
+    - name: STEPN
+      url: /tags/STEPN
+      pre: <i class="fa-2x fas fa-book"></i>
+      weight: -100
+    # - name: Hugo
+    #   url: /tags/Hugo
+    #   pre: <i class="fa-2x fas fa-cog"></i>
+    #   weight: -90
+    # - name: Go言語
+    #   url: /categories/Go言語
+    #   pre: <i class="fa-2x fas fa-laptop-code"></i>
+    #   weight: -80
+    # - name: Tips
+    #   url: /tags/tips
+    #   pre: <i class="fa-2x fas fa-mobile-alt"></i>
+    #   weight: -70
+    # - name: shortcode
+    #   url: /tags/ショートコード
+    #   pre: <i class="fa-2x fas fa-wrench"></i>
+    #   weight: -60
+    # - name: サンプル
+    #   url: /categories/サンプル
+    #   pre: <i class="fa-2x fab fa-safari"></i>
+    #   weight: -50
+  footer:
+    - name: このサイトについて
+      url: /pages/about
+      weight: -100
+      params:
+        position: left
+    # - name: お知らせ
+    #   url: /information
+    #   weight: -90
+    #   params:
+    #     position: left
+    - name: プライバシーポリシー
+      url: /pages/privacy
+      weight: -100
+      params:
+        position: right
+    - name: お問い合わせ
+      url: pages/contactus
+      weight: -90
+      params:
+        position: right
+

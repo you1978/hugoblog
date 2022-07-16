@@ -1,0 +1,147 @@
+baseURL = "https://anyplace2030.work/"
+title = "STEPNの始め方"
+author = "よーへい"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+theme = "kadlu"
+enableRobotsTXT = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "G-1234567890"
+
+# Disqus Comment System
+disqusShortname = "@disqus_slJlEz7BGK"
+
+[params]
+# Base color of the website.
+# https://tailwindcss.com/docs/background-color
+base_color = "bg-gray-800"
+
+#Site description
+description = "投機で大損した経験から立ち直り楽しくSTEPNをするサイトを運営。福岡を在住。サラリーマンリモートワーカー。11歳の女の子の父親。現在STEPNを検証中！"
+
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
+
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
+
+# Number of tags to be displayed.
+tagsLimit = 20
+
+# Dark mode by default : dark
+# Light mode by default : light
+darkmode = "light"
+
+[Author]
+  name = "よーへい"  
+  bio = "投機で大損した経験から立ち直り楽しくSTEPNをするサイトを運営。福岡を在住。サラリーマンリモートワーカー。11歳の女の子の父親。現在STEPNを検証中！"
+  avatar = "images/author.jpg"
+
+  [params.post]
+    # Show thumbnails
+    thumbnail = true
+
+    # Disable the "NO IMAGE" image.
+    noimage = true
+
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "lg:h-44"
+
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "lg:w-auto"
+
+    # Number of characters in description
+    description = "130"
+
+  [params.widgets]
+    # Display widgets
+    display = true
+
+    # Order of widgets to display
+    widgets = [ "authorbox", "search", "category", "tags", "recent"]
+
+# If you're using Yandex.Metrica, you can enable this feature.
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = ''
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "ホーム"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "STEPNを始める"
+    url = "/post/code/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "learn"
+    name = "STEPNを学ぶ"
+    url = "/post/learn/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "earn"
+    name = "種銭を作る"
+    url = "/post/earn/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "report"
+    name = "収支を見る"
+    url = "/post/report/"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "自己紹介"
+    url = "/pages/about/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+authorbox = "authorbox"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+  [markup.goldmark.parser.attribute]
+  block = true

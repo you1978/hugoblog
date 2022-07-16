@@ -5,10 +5,8 @@ date: "2020-08-16T13:28:30Z"
 toc: true
 share: true
 thumbnail: ""
-categories:
-  - ""
-tags:
-  - ""
+categories: "contact"
+tags: ["contact"]
 ---
 
 {{< raw >}}
