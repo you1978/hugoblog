@@ -1,3 +1,7 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad
+
+[submodule "themes/salt"]
+	path = themes/salt
+	url = https://github.com/okdyy75/hugo-theme-salt.git
