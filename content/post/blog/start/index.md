@@ -1,6 +1,6 @@
 ---
 title: "2022年10万円チャレンジ"
-description: "あと半年でいくら増やせるかチャレンジ"
+description: "k"
 date: 2022-07-17T04:52:57Z
 lastmod: 2022-07-17T04:52:57Z
 draft: false

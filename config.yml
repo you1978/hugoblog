@@ -2,7 +2,7 @@ baseURL: https://anyplace2030.work/
 languageCode: ja
 # theme: hugo-theme-salt
 theme: salt
-title: 10万円で始める仮想通貨！
+title: 10万円で始める暗号資産！
 copyright: © 2022 Yohei Tanaka
 author:
   name: Yohei Tanaka
@@ -74,7 +74,7 @@ params:
   rankingArticleLimit: 5
   relatedArticleLimit: 2
   imageQuality: 75
-  customCSS : ["/css/custom.css"]
+  customCSS : ["/css/reset.css","/css/custom.css"]
   profile:
     name: Yohei Tanaka
     description: プロフィール
@@ -136,13 +136,13 @@ params:
 
 menu:
   header:
-    - name: 仮想通貨ブログ
+    - name: 暗号資産ブログ
       url: /post/blog
       weight: -100
-    - name: 仮想通貨を始める
+    - name: 暗号資産を始める
       url: /post/code
       weight: -90
-    - name: 仮想通貨を学ぶ
+    - name: 暗号資産を学ぶ
       url: /post/learn
       weight: -80
     - name: STEPN関連
