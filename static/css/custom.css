@@ -612,5 +612,5 @@ h2 {
 }
 
 p {
-  margin: 2rem 0;
+  margin: 2rem 0 !important;
 }
