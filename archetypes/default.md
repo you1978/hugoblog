@@ -1,15 +1,13 @@
 ---
-title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 description: ""
-date: "{{ .Date }}"
-toc: true
+date: {{ .Date }}
+lastmod: {{ .Date }}
+draft: false
+tags: []
+categories: ""
+#archives: ["{{ dateFormat "2006年1月" .Date }}"]
 share: true
-thumbnail: ""
-categories:
-  - ""
-tags:
-  - ""
+toc: true
+comment: true
 ---
-
-
-

@@ -9,7 +9,6 @@ image: "/images/braden-collum-9HI8UJMSdZA-unsplash.jpg"
 thumbnail: "images/braden-collum-9HI8UJMSdZA-unsplash.jpg"
 categories: "STEPNの始め方"
 tags: ["STEPN"]
-pickups: ["top"]
 ---
 
 7月16日時点でGSTは最低価格を更新中です。

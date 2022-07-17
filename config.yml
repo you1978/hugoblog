@@ -136,19 +136,26 @@ params:
 
 menu:
   header:
+    - name: 仮想通貨ブログ
+      url: /post/blog
+      weight: -100
     - name: 仮想通貨を始める
       url: /post/code
-      weight: -100
+      weight: -90
     - name: 仮想通貨を学ぶ
       url: /post/learn
-      weight: -90
+      weight: -80
     - name: STEPN関連
       url: /post/stepn
-      weight: -80
+      weight: -70
     - name: 収支を見る
       url: /post/report
-      weight: -70
+      weight: -60
   sidebar:
+    # - name: 仮想通貨
+    #   url: /categories/Go言語
+    #   pre: <i class="fa-2x fas fa-book"></i>
+    #   weight: -100
     - name: STEPN
       url: /tags/STEPN
       pre: <i class="fa-2x fas fa-book"></i>

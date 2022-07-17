@@ -17,12 +17,7 @@ BINANCE(バイナンス)の始め方を解説します。
 
 <!--more-->
 
-下記の実績をもつようへい（{{< exlink href="https://twitter.com/fireCodeCoin" text="@fireCodeCoin" >}})が解説します。
-
-- 仮想通貨・Defi歴 半年
-- 暗号資産の無限の可能性に賭ける
-- 自らお金を使い失敗も成功もこのブログで共有します  
-{{ .list3 }}
+{{% intro %}} 
 
 ## BINANCE(バイナンス)の窓口
 
