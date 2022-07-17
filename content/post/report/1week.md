@@ -6,7 +6,7 @@ toc: true
 share: true
 thumbnail: "/images/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
 categories:
-  - ""
+  - "STEPN関連"
 tags:
   - "STEPN"
 ---

@@ -6,7 +6,7 @@ toc: true
 share: true
 thumbnail: "/images/lukas-blazek-mcSDtbWXUZU-unsplash.jpg"
 categories:
-  - ""
+  - "STEPN関連"
 tags:
   - "STEPN"
 ---

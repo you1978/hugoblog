@@ -2,7 +2,7 @@ baseURL: https://anyplace2030.work/
 languageCode: ja
 # theme: hugo-theme-salt
 theme: salt
-title: STEPNの始め方！
+title: 10万円で始める仮想通貨！
 copyright: © 2022 Yohei Tanaka
 author:
   name: Yohei Tanaka
@@ -64,7 +64,7 @@ module:
       target: static/js/vendor/lunr-languages/lunr.ja.js
 
 params:
-  description: このサイトはHugo用ブログテーマ「Salt」のサンプルサイトです
+  description: 投機で大損した経験から立ち直り楽しくSTEPNをするサイトを運営。福岡を在住。サラリーマンリモートワーカー。11歳の女の子の父親
   icon: image/icon.png
   images:
     - image/og_large.png
@@ -136,14 +136,14 @@ params:
 
 menu:
   header:
-    - name: STEPNを始める
+    - name: 仮想通貨を始める
       url: /post/code
       weight: -100
-    - name: STEPNで稼ぐ
-      url: /post/earn
-      weight: -90
-    - name: STEPNを学ぶ
+    - name: 仮想通貨を学ぶ
       url: /post/learn
+      weight: -90
+    - name: STEPN関連
+      url: /post/stepn
       weight: -80
     - name: 収支を見る
       url: /post/report
