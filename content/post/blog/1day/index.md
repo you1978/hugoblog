@@ -7,13 +7,13 @@ draft: false
 tags: []
 categories: "暗号資産"
 #archives: ["2022年7月"]
+pickups: ["top"]
 share: true
 toc: true
 comment: true
 ---
 
 こんにちは、よーへいです。  
-
 7月20日21時時点の保有暗号資産の価値
 
 本日の評価額**742.14 BUSD** 
