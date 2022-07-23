@@ -88,7 +88,7 @@ params:
       # qiita: qiita
       # zenn: zenn
       email: you1978@hotmail.com
-      other: https://anyplace2030.work/
+      other: https://anyplace2030.work/pages/about
   publisher:
     type: Organization
     name: my_organization
@@ -151,6 +151,9 @@ menu:
     - name: 収支を見る
       url: /post/report
       weight: -60
+    - name: プロフィール
+      url: /pages/about
+      weight: -50
   sidebar:
     # - name: 仮想通貨
     #   url: /categories/Go言語
