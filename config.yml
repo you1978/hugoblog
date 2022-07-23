@@ -136,9 +136,9 @@ params:
 
 menu:
   header:
-    - name: 暗号資産ブログ
-      url: /post/blog
-      weight: -100
+    # - name: 暗号資産ブログ
+    #   url: /post/blog
+    #   weight: -100
     - name: 暗号資産を始める
       url: /post/code
       weight: -90

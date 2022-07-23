@@ -5,6 +5,7 @@ date: "2022-05-21T09:55:57Z"
 toc: false
 share: true
 draft: false
+toc: true
 thumbnail: /images/bermix-studio-aX1hN4uNd-I-unsplash.jpg
 categories: "STEPNの始め方"
 tags:
@@ -65,16 +66,16 @@ bitbankは取引量・セキュリティで国内No1の暗号資産の取引所�
 {{< /button >}}
 
 下記の画面でメールアドレスを入力します。  
-{{< show id="b1" src="/images/bitbank1.jpg" title="bitbank1" >}}
+{{< custom-figure src="bitbank1.jpg" width="320" >}}
 
-bitbankからメールが届きます。メールないのリンクをクリックします。
-{{< show id="b2" src="/images/bitbank2.jpg" title="bitbank2" >}}
+bitbankからメールが届きます。メール内のリンクをクリックします。
+{{< custom-figure src="bitbank2.jpg" width="320" >}}
 
 bitbankから新規登録画面を入力します。
-{{< show id="b3" src="/images/bitbank3.jpg" title="bitbank3" >}}
+{{< custom-figure src="bitbank3.jpg" width="320" >}}
 
 bitbankから基本情報を入力します。
-{{< show id="b5" src="/images/bitbank5.jpg" title="bitbank5" >}}
+{{< custom-figure src="bitbank5.jpg" width="320" >}}
 
 ## 本人認証する
 

@@ -3,7 +3,7 @@ title: "7月19日〜7月26日の成果報告"
 description: "始めの週"
 date: 2022-07-17T14:41:30Z
 lastmod: 2022-07-20T14:41:30Z
-draft: false
+draft: true
 tags: []
 categories: "暗号資産"
 #archives: ["2022年7月"]
