@@ -2,7 +2,8 @@
 title: "bitbankの開設の仕方"
 description: ""
 date: "2022-05-21T09:55:57Z"
-toc: false
+toc: true
+pickups: ["top"]
 share: true
 draft: false
 toc: true
