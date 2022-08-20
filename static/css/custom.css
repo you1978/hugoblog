@@ -520,7 +520,7 @@ ul.list3{
   border: solid 2px #e22d30;
   padding: 0.5em 0.5em 0.5em 2.3em;
   position: relative;
-  margin-top: 3em;
+  /* margin-top: 3em; */
 }
 ul.list3 li {
   line-height: 1.5;
@@ -629,3 +629,57 @@ p {
   padding: 10px;
   border: solid 1px #778ca3;
  }
+
+
+.list7 {
+  margin: 3em 0 1em 0;
+}
+.list7-title {
+  display: inline-block;
+  padding: 1px 10px 0 10px;
+  background: #ee8992;
+  color: #fff;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+}
+.list7 ul,.list7 ol {
+  margin: 0;
+  padding: 5px;
+  position: relative;
+  border: solid 2px #ee8992;
+}
+.list7 ol {
+  counter-reset: number;
+}
+.list7 ul li,.list7 ol li {
+  color: #ee8992;
+  line-height: 1.5;
+  padding: 0.5em 0.5em 0.5em 1.8em;
+  list-style-type: none;
+  font-weight: bold;
+}
+.list7 ul li:before {
+  font-family: FontAwesome;
+  content: "\f14a";
+  position: absolute;
+  left : 0.5em;
+  color: #ee8992;
+}
+.list7 ol li:before {
+  display: inline-block;
+  position: absolute;
+  left: 0.5em;
+  width: 22px;
+  height: 22px;
+  border-radius: 20%;
+  background: #ee8992;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 22px;
+  content: counter(number);
+  counter-increment: number;
+}
