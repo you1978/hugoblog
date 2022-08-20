@@ -4,7 +4,6 @@ description: ""
 date: "2021-09-12T15:02:35Z"
 toc: true
 share: true
-thumbnail: "images/nathan-dumlao-v1gT1T80ZoA-unsplash.jpg"
 categories:
   - ""
 tags:
