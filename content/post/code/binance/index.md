@@ -4,7 +4,6 @@ description: ""
 date: "2022-05-07T14:40:24Z"
 toc: true
 share: true
-thumbnail: "/images/kanchanara-WLvog4WcqRU-unsplash.jpg"
 categories: "STEPNの始め方"
 tags:
   - ""
